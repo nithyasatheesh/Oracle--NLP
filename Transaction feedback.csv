@@ -1,0 +1,1001 @@
+TransactionID,Amount,CustomerID,TransactionComment,CustomerFeedback
+1.0,55.53033442986919,1952.0,Customer purchased groceries worth $55.53.,Will buy again!
+2.0,12.881180192784145,1027.0,Customer requested refund for electronics worth $12.88.,Product arrived broken.
+3.0,50.17632151706568,1955.0,Customer exchanged cosmetics worth $50.18.,The product does not match the description.
+4.0,41.63400105303006,1796.0,Customer requested refund for electronics worth $41.63.,Excellent experience.
+5.0,78.12285326574603,1946.0,Customer exchanged furniture worth $78.12.,Refund took too long.
+6.0,86.94708413376785,1204.0,Customer requested refund for cosmetics worth $86.95.,Satisfied with the purchase.
+7.0,51.1470964781812,1311.0,Customer requested refund for clothing worth $51.15.,Customer support was unhelpful.
+8.0,56.16398430834813,1693.0,Customer purchased groceries worth $56.16.,Customer support was unhelpful.
+9.0,37.182411723100415,1347.0,Customer exchanged furniture worth $37.18.,Satisfied with the purchase.
+10.0,17.245409041786953,1574.0,Customer returned furniture worth $17.25.,Product arrived broken.
+11.0,86.18094790838266,1424.0,Customer purchased groceries worth $86.18.,The product does not match the description.
+12.0,95.55400891993546,1302.0,Customer requested refund for cosmetics worth $95.55.,Customer support was unhelpful.
+13.0,47.13851441157395,1321.0,Customer returned electronics worth $47.14.,Highly recommend!
+14.0,98.80425008117196,1700.0,Customer exchanged groceries worth $98.80.,Refund took too long.
+15.0,99.83263446243002,1321.0,Customer requested refund for furniture worth $99.83.,Highly recommend!
+16.0,20.735039147246727,1463.0,Customer requested refund for clothing worth $20.74.,"Great service, fast delivery!"
+17.0,44.54511885107208,1962.0,Customer returned cosmetics worth $44.55.,Satisfied with the purchase.
+18.0,27.05493666999777,1854.0,Customer exchanged furniture worth $27.05.,Highly recommend!
+19.0,13.615519156393288,1651.0,Customer exchanged furniture worth $13.62.,Satisfied with the purchase.
+20.0,20.80228963510888,1715.0,Customer exchanged furniture worth $20.80.,Satisfied with the purchase.
+21.0,36.04360521851923,1724.0,Customer returned clothing worth $36.04.,Refund took too long.
+22.0,99.1004273987159,1117.0,Customer requested refund for groceries worth $99.10.,The product does not match the description.
+23.0,85.4201781893225,1613.0,Customer requested refund for cosmetics worth $85.42.,Product arrived broken.
+24.0,84.05328458627297,1643.0,Customer returned cosmetics worth $84.05.,Very disappointed with the product quality.
+25.0,50.258612452465634,1788.0,Customer returned clothing worth $50.26.,Excellent experience.
+26.0,52.593928648769634,1251.0,Customer exchanged cosmetics worth $52.59.,Excellent experience.
+27.0,20.48932094343152,1960.0,Customer purchased furniture worth $20.49.,Excellent experience.
+28.0,12.397442736592344,1187.0,Customer purchased furniture worth $12.40.,Excellent experience.
+29.0,25.334803493141827,1121.0,Customer requested refund for electronics worth $25.33.,Refund took too long.
+30.0,70.07512697850342,1117.0,Customer requested refund for furniture worth $70.08.,Will buy again!
+31.0,92.6193029775784,1475.0,Customer purchased groceries worth $92.62.,Refund took too long.
+32.0,77.7269441692719,1993.0,Customer requested refund for furniture worth $77.73.,Refund took too long.
+33.0,59.3509900357369,1030.0,Customer requested refund for clothing worth $59.35.,Very disappointed with the product quality.
+34.0,61.34763595275774,1116.0,Customer purchased cosmetics worth $61.35.,Very disappointed with the product quality.
+35.0,60.47401632791208,1676.0,Customer exchanged cosmetics worth $60.47.,Satisfied with the purchase.
+36.0,42.20773347952953,1547.0,Customer purchased furniture worth $42.21.,Customer support was unhelpful.
+37.0,71.26856791663724,1527.0,Customer requested refund for clothing worth $71.27.,Will buy again!
+38.0,46.214982406953474,1087.0,Customer requested refund for electronics worth $46.21.,The product does not match the description.
+39.0,14.63168948637222,1207.0,Customer requested refund for furniture worth $14.63.,The product does not match the description.
+40.0,80.53777562959479,1038.0,Customer returned cosmetics worth $80.54.,Satisfied with the purchase.
+41.0,47.874851353915766,1800.0,Customer returned clothing worth $47.87.,Excellent experience.
+42.0,85.10981610829299,1510.0,Customer returned groceries worth $85.11.,The product does not match the description.
+43.0,55.81926585658818,1104.0,Customer returned electronics worth $55.82.,Refund took too long.
+44.0,86.97191973785533,2000.0,Customer requested refund for cosmetics worth $86.97.,Excellent experience.
+45.0,69.75758075212585,1644.0,Customer returned cosmetics worth $69.76.,Refund took too long.
+46.0,79.35791579481321,1238.0,Customer purchased cosmetics worth $79.36.,Product arrived broken.
+47.0,72.74250983074938,1759.0,Customer exchanged clothing worth $72.74.,Refund took too long.
+48.0,17.6405694778187,1994.0,Customer requested refund for clothing worth $17.64.,Will buy again!
+49.0,30.793728080558463,1752.0,Customer purchased clothing worth $30.79.,Customer support was unhelpful.
+50.0,61.35297940106928,1415.0,Customer requested refund for electronics worth $61.35.,Product arrived broken.
+51.0,42.07616320785515,1044.0,Customer exchanged electronics worth $42.08.,Will buy again!
+52.0,90.81333790562653,1374.0,Customer requested refund for groceries worth $90.81.,Customer support was unhelpful.
+53.0,42.08401695356378,1345.0,Customer requested refund for furniture worth $42.08.,Will buy again!
+54.0,87.77609114158098,1680.0,Customer purchased furniture worth $87.78.,Highly recommend!
+55.0,62.13088122838467,1043.0,Customer exchanged cosmetics worth $62.13.,The product does not match the description.
+56.0,83.1517552203441,1611.0,Customer returned electronics worth $83.15.,Will buy again!
+57.0,49.723786313021925,1704.0,Customer returned groceries worth $49.72.,Highly recommend!
+58.0,13.081741283544147,1405.0,Customer returned electronics worth $13.08.,The product does not match the description.
+59.0,28.62756065487808,1161.0,Customer purchased groceries worth $28.63.,Product arrived broken.
+60.0,82.91599923239106,1336.0,Customer purchased cosmetics worth $82.92.,Satisfied with the purchase.
+61.0,76.11459127700137,1714.0,Customer returned groceries worth $76.11.,"Great service, fast delivery!"
+62.0,66.56159118369223,1865.0,Customer exchanged groceries worth $66.56.,The product does not match the description.
+63.0,50.51711429707575,1702.0,Customer requested refund for clothing worth $50.52.,Very disappointed with the product quality.
+64.0,55.162744952494926,1483.0,Customer requested refund for furniture worth $55.16.,Will buy again!
+65.0,78.33451388591148,1139.0,Customer requested refund for furniture worth $78.33.,Highly recommend!
+66.0,51.4144879788989,1108.0,Customer returned groceries worth $51.41.,The product does not match the description.
+67.0,81.34788954135908,1056.0,Customer purchased cosmetics worth $81.35.,Customer support was unhelpful.
+68.0,95.23140544260824,1548.0,Customer returned groceries worth $95.23.,Will buy again!
+69.0,87.15831942631942,1887.0,Customer purchased groceries worth $87.16.,Highly recommend!
+70.0,78.69681169305915,1897.0,Customer returned cosmetics worth $78.70.,The product does not match the description.
+71.0,23.80623682022744,1154.0,Customer requested refund for cosmetics worth $23.81.,Refund took too long.
+72.0,57.31615922446038,1286.0,Customer purchased electronics worth $57.32.,Highly recommend!
+73.0,67.92604330939866,1149.0,Customer requested refund for clothing worth $67.93.,Excellent experience.
+74.0,16.26344880319616,1158.0,Customer exchanged cosmetics worth $16.26.,Satisfied with the purchase.
+75.0,13.42002255353782,1606.0,Customer requested refund for cosmetics worth $13.42.,"Great service, fast delivery!"
+76.0,42.76855554669151,1422.0,Customer exchanged electronics worth $42.77.,Product arrived broken.
+77.0,41.21158341874049,1007.0,Customer requested refund for electronics worth $41.21.,Will buy again!
+78.0,58.13859005804491,1985.0,Customer exchanged cosmetics worth $58.14.,"Great service, fast delivery!"
+79.0,14.634664157422302,1776.0,Customer returned groceries worth $14.63.,The product does not match the description.
+80.0,19.137591520992626,1159.0,Customer purchased cosmetics worth $19.14.,Product arrived broken.
+81.0,29.83486576041774,1493.0,Customer purchased cosmetics worth $29.83.,Will buy again!
+82.0,38.43137755298227,1322.0,Customer returned furniture worth $38.43.,Satisfied with the purchase.
+83.0,18.110761868902294,1731.0,Customer requested refund for electronics worth $18.11.,Satisfied with the purchase.
+84.0,22.97242859349798,1876.0,Customer purchased furniture worth $22.97.,Refund took too long.
+85.0,22.45289288099517,1920.0,Customer requested refund for clothing worth $22.45.,Excellent experience.
+86.0,70.51131966791718,1618.0,Customer requested refund for clothing worth $70.51.,Customer support was unhelpful.
+87.0,78.55221406635722,1054.0,Customer purchased clothing worth $78.55.,Will buy again!
+88.0,35.601241841950866,1886.0,Customer exchanged clothing worth $35.60.,Excellent experience.
+89.0,26.00722367933592,1071.0,Customer purchased groceries worth $26.01.,Highly recommend!
+90.0,85.36034193563887,1975.0,Customer returned groceries worth $85.36.,Satisfied with the purchase.
+91.0,48.09673926087099,1726.0,Customer requested refund for electronics worth $48.10.,Customer support was unhelpful.
+92.0,29.03410939854033,1435.0,Customer requested refund for cosmetics worth $29.03.,Very disappointed with the product quality.
+93.0,98.14685940247114,1684.0,Customer purchased electronics worth $98.15.,Refund took too long.
+94.0,79.77488953148558,1277.0,Customer returned cosmetics worth $79.77.,"Great service, fast delivery!"
+95.0,50.39592040108388,1828.0,Customer purchased cosmetics worth $50.40.,Refund took too long.
+96.0,98.5026858539832,1466.0,Customer returned cosmetics worth $98.50.,Highly recommend!
+97.0,18.16684546592576,1922.0,Customer exchanged furniture worth $18.17.,"Great service, fast delivery!"
+98.0,55.88720399193835,1183.0,Customer exchanged groceries worth $55.89.,"Great service, fast delivery!"
+99.0,76.84342858021311,1866.0,Customer purchased furniture worth $76.84.,Excellent experience.
+100.0,13.097222776355888,1514.0,Customer exchanged clothing worth $13.10.,Will buy again!
+101.0,58.92390637798005,1023.0,Customer returned clothing worth $58.92.,Refund took too long.
+102.0,61.65899469709107,1012.0,Customer returned electronics worth $61.66.,"Great service, fast delivery!"
+103.0,12.458635265316776,1585.0,Customer returned groceries worth $12.46.,Satisfied with the purchase.
+104.0,16.651042272403856,1914.0,Customer purchased clothing worth $16.65.,Very disappointed with the product quality.
+105.0,64.1798875377491,1979.0,Customer requested refund for furniture worth $64.18.,Will buy again!
+106.0,13.915099886609262,1995.0,Customer returned groceries worth $13.92.,Satisfied with the purchase.
+107.0,58.084975288492096,1359.0,Customer purchased furniture worth $58.08.,"Great service, fast delivery!"
+108.0,96.8105858612092,1609.0,Customer requested refund for cosmetics worth $96.81.,Refund took too long.
+109.0,48.737959254294935,1796.0,Customer exchanged electronics worth $48.74.,Will buy again!
+110.0,44.24378825471623,1685.0,Customer returned clothing worth $44.24.,The product does not match the description.
+111.0,22.586047991269297,1961.0,Customer exchanged clothing worth $22.59.,The product does not match the description.
+112.0,40.47944601842122,1740.0,Customer purchased groceries worth $40.48.,Will buy again!
+113.0,74.4439571243902,1836.0,Customer requested refund for cosmetics worth $74.44.,Refund took too long.
+114.0,77.57986716270221,1120.0,Customer exchanged electronics worth $77.58.,Excellent experience.
+115.0,40.63979180497972,1841.0,Customer purchased electronics worth $40.64.,Excellent experience.
+116.0,62.921911545133966,1930.0,Customer exchanged electronics worth $62.92.,Satisfied with the purchase.
+117.0,43.7036374245612,1423.0,Customer returned furniture worth $43.70.,The product does not match the description.
+118.0,56.60485656715164,1575.0,Customer requested refund for electronics worth $56.60.,Very disappointed with the product quality.
+119.0,17.72987462635209,1780.0,Customer requested refund for electronics worth $17.73.,The product does not match the description.
+120.0,68.83486745284134,1894.0,Customer returned electronics worth $68.83.,Very disappointed with the product quality.
+121.0,32.34210737065556,1240.0,Customer requested refund for cosmetics worth $32.34.,Refund took too long.
+122.0,87.56655197793899,1167.0,Customer requested refund for groceries worth $87.57.,Satisfied with the purchase.
+123.0,70.83894725546456,1330.0,Customer exchanged furniture worth $70.84.,Highly recommend!
+124.0,26.529790933426444,1171.0,Customer requested refund for furniture worth $26.53.,Will buy again!
+125.0,88.20456750327392,1749.0,Customer returned groceries worth $88.20.,The product does not match the description.
+126.0,55.20289159939914,1069.0,Customer requested refund for cosmetics worth $55.20.,The product does not match the description.
+127.0,55.48555001123924,1569.0,Customer requested refund for cosmetics worth $55.49.,Satisfied with the purchase.
+128.0,39.19964508295418,1537.0,Customer exchanged groceries worth $39.20.,Satisfied with the purchase.
+129.0,49.87286889896349,1425.0,Customer exchanged furniture worth $49.87.,"Great service, fast delivery!"
+130.0,12.473355037269908,1761.0,Customer returned clothing worth $12.47.,Very disappointed with the product quality.
+131.0,75.99253650342669,1458.0,Customer purchased electronics worth $75.99.,Refund took too long.
+132.0,65.03159710701489,1588.0,Customer returned clothing worth $65.03.,Excellent experience.
+133.0,92.36972521780169,1418.0,Customer exchanged clothing worth $92.37.,Product arrived broken.
+134.0,33.800957892074884,1299.0,Customer purchased furniture worth $33.80.,The product does not match the description.
+135.0,14.56451519624522,1822.0,Customer purchased electronics worth $14.56.,Customer support was unhelpful.
+136.0,70.85855068793218,1152.0,Customer requested refund for cosmetics worth $70.86.,Will buy again!
+137.0,80.77316169978734,1667.0,Customer returned electronics worth $80.77.,Product arrived broken.
+138.0,39.8254029895631,1669.0,Customer returned groceries worth $39.83.,Refund took too long.
+139.0,12.184601872547413,1169.0,Customer exchanged electronics worth $12.18.,Refund took too long.
+140.0,36.9412542954954,1574.0,Customer purchased furniture worth $36.94.,Excellent experience.
+141.0,61.41387641863861,1019.0,Customer purchased electronics worth $61.41.,The product does not match the description.
+142.0,74.95521382139967,1017.0,Customer exchanged groceries worth $74.96.,Will buy again!
+143.0,86.47644806653052,1150.0,Customer requested refund for electronics worth $86.48.,Excellent experience.
+144.0,44.586046124582026,1087.0,Customer exchanged electronics worth $44.59.,Customer support was unhelpful.
+145.0,45.94470335816509,1129.0,Customer purchased clothing worth $45.94.,"Great service, fast delivery!"
+146.0,86.17240478756997,1234.0,Customer exchanged electronics worth $86.17.,Excellent experience.
+147.0,19.688496513147165,1112.0,Customer returned groceries worth $19.69.,"Great service, fast delivery!"
+148.0,79.52197137501955,1066.0,Customer exchanged electronics worth $79.52.,Product arrived broken.
+149.0,10.863844969173988,1598.0,Customer requested refund for electronics worth $10.86.,Customer support was unhelpful.
+150.0,15.24013555293646,1117.0,Customer returned electronics worth $15.24.,Will buy again!
+151.0,46.265651867845264,1311.0,Customer requested refund for cosmetics worth $46.27.,Refund took too long.
+152.0,10.64214063364256,1998.0,Customer returned furniture worth $10.64.,Very disappointed with the product quality.
+153.0,40.52631372440093,1123.0,Customer returned cosmetics worth $40.53.,Refund took too long.
+154.0,55.74925986254664,1098.0,Customer requested refund for clothing worth $55.75.,The product does not match the description.
+155.0,80.68702881549353,1836.0,Customer exchanged clothing worth $80.69.,Highly recommend!
+156.0,58.78105340124304,1126.0,Customer returned clothing worth $58.78.,Product arrived broken.
+157.0,93.21260497318085,1105.0,Customer purchased clothing worth $93.21.,Customer support was unhelpful.
+158.0,48.93431687421971,1634.0,Customer purchased electronics worth $48.93.,Excellent experience.
+159.0,75.84896970201633,1768.0,Customer requested refund for clothing worth $75.85.,Very disappointed with the product quality.
+160.0,99.24329385724016,1271.0,Customer requested refund for furniture worth $99.24.,Excellent experience.
+161.0,97.62385249068704,1935.0,Customer purchased groceries worth $97.62.,Customer support was unhelpful.
+162.0,68.36222224178091,1666.0,Customer returned cosmetics worth $68.36.,Customer support was unhelpful.
+163.0,52.7405583765616,1495.0,Customer returned furniture worth $52.74.,Refund took too long.
+164.0,88.75728850172628,1982.0,Customer purchased furniture worth $88.76.,Excellent experience.
+165.0,70.65807372432405,1127.0,Customer returned electronics worth $70.66.,Highly recommend!
+166.0,16.560396381973245,1437.0,Customer exchanged furniture worth $16.56.,Very disappointed with the product quality.
+167.0,36.87248196812679,1145.0,Customer purchased cosmetics worth $36.87.,Very disappointed with the product quality.
+168.0,37.97774880715161,1477.0,Customer requested refund for groceries worth $37.98.,Product arrived broken.
+169.0,37.40762141397819,1727.0,Customer purchased groceries worth $37.41.,The product does not match the description.
+170.0,27.459895442013668,1365.0,Customer requested refund for furniture worth $27.46.,Highly recommend!
+171.0,16.468824479692067,1239.0,Customer exchanged groceries worth $16.47.,"Great service, fast delivery!"
+172.0,95.81318706963296,1422.0,Customer purchased electronics worth $95.81.,Product arrived broken.
+173.0,63.47667766306569,1089.0,Customer returned cosmetics worth $63.48.,Refund took too long.
+174.0,97.0655205171012,1407.0,Customer requested refund for groceries worth $97.07.,Will buy again!
+175.0,13.592210306686386,1233.0,Customer requested refund for furniture worth $13.59.,Very disappointed with the product quality.
+176.0,18.04295485910775,1474.0,Customer exchanged groceries worth $18.04.,Customer support was unhelpful.
+177.0,57.400809663920754,1059.0,Customer exchanged electronics worth $57.40.,"Great service, fast delivery!"
+178.0,91.89645670792092,1596.0,Customer exchanged clothing worth $91.90.,"Great service, fast delivery!"
+179.0,67.30165835468443,1800.0,Customer purchased cosmetics worth $67.30.,Refund took too long.
+180.0,79.45616782324659,1117.0,Customer requested refund for clothing worth $79.46.,Highly recommend!
+181.0,74.59376570121384,1548.0,Customer returned cosmetics worth $74.59.,Refund took too long.
+182.0,90.0500458660583,1084.0,Customer purchased cosmetics worth $90.05.,Excellent experience.
+183.0,71.65549550773102,1591.0,Customer exchanged groceries worth $71.66.,"Great service, fast delivery!"
+184.0,76.74484865313467,1107.0,Customer returned furniture worth $76.74.,Product arrived broken.
+185.0,30.73140745162662,1449.0,Customer exchanged electronics worth $30.73.,Customer support was unhelpful.
+186.0,13.94613717842646,1997.0,Customer purchased cosmetics worth $13.95.,Will buy again!
+187.0,86.27614397676666,1825.0,Customer exchanged cosmetics worth $86.28.,Customer support was unhelpful.
+188.0,39.15191297159039,1609.0,Customer purchased groceries worth $39.15.,The product does not match the description.
+189.0,63.75541221221678,1439.0,Customer requested refund for electronics worth $63.76.,Highly recommend!
+190.0,13.936656978315106,1122.0,Customer purchased clothing worth $13.94.,Highly recommend!
+191.0,39.27911887178642,1542.0,Customer returned electronics worth $39.28.,The product does not match the description.
+192.0,61.29285089639624,1024.0,Customer returned cosmetics worth $61.29.,Excellent experience.
+193.0,61.5850254830433,1804.0,Customer returned electronics worth $61.59.,Customer support was unhelpful.
+194.0,25.807626781009997,1394.0,Customer returned clothing worth $25.81.,Refund took too long.
+195.0,60.1627950076116,1377.0,Customer requested refund for groceries worth $60.16.,Highly recommend!
+196.0,73.95115480743799,1860.0,Customer purchased furniture worth $73.95.,Satisfied with the purchase.
+197.0,41.600666147750765,1022.0,Customer requested refund for clothing worth $41.60.,Will buy again!
+198.0,77.50218977872183,1599.0,Customer exchanged furniture worth $77.50.,Highly recommend!
+199.0,60.700759795200256,1281.0,Customer exchanged cosmetics worth $60.70.,Refund took too long.
+200.0,10.867087743046213,1549.0,Customer returned groceries worth $10.87.,Satisfied with the purchase.
+201.0,78.69908198812801,1237.0,Customer purchased clothing worth $78.70.,Customer support was unhelpful.
+202.0,13.562991257277996,1800.0,Customer purchased groceries worth $13.56.,Customer support was unhelpful.
+203.0,61.40287558718099,1167.0,Customer purchased clothing worth $61.40.,Highly recommend!
+204.0,68.40522340995258,1559.0,Customer requested refund for cosmetics worth $68.41.,"Great service, fast delivery!"
+205.0,59.45638923887482,1764.0,Customer exchanged electronics worth $59.46.,Excellent experience.
+206.0,94.570751399094,1124.0,Customer purchased cosmetics worth $94.57.,Excellent experience.
+207.0,81.56433192297125,1095.0,Customer requested refund for clothing worth $81.56.,"Great service, fast delivery!"
+208.0,58.42056072628485,1690.0,Customer purchased clothing worth $58.42.,Excellent experience.
+209.0,48.04486290773334,1359.0,Customer requested refund for groceries worth $48.04.,Highly recommend!
+210.0,27.51230202452078,1026.0,Customer requested refund for clothing worth $27.51.,Satisfied with the purchase.
+211.0,67.03130270994141,1596.0,Customer exchanged electronics worth $67.03.,The product does not match the description.
+212.0,78.56207411278741,1506.0,Customer returned furniture worth $78.56.,"Great service, fast delivery!"
+213.0,81.95667521729543,1219.0,Customer purchased electronics worth $81.96.,Very disappointed with the product quality.
+214.0,66.22278769805163,1609.0,Customer returned groceries worth $66.22.,The product does not match the description.
+215.0,43.288425940630695,1788.0,Customer returned furniture worth $43.29.,Very disappointed with the product quality.
+216.0,91.44727683785102,1320.0,Customer requested refund for electronics worth $91.45.,Refund took too long.
+217.0,98.68616371418082,1194.0,Customer requested refund for groceries worth $98.69.,Will buy again!
+218.0,84.03821814533373,1387.0,Customer returned cosmetics worth $84.04.,Refund took too long.
+219.0,26.705903742573543,1381.0,Customer purchased furniture worth $26.71.,"Great service, fast delivery!"
+220.0,95.66715462171436,1023.0,Customer exchanged electronics worth $95.67.,Excellent experience.
+221.0,53.84797949558436,1292.0,Customer purchased groceries worth $53.85.,Very disappointed with the product quality.
+222.0,67.7566473614084,1556.0,Customer requested refund for electronics worth $67.76.,The product does not match the description.
+223.0,68.86554660517089,1616.0,Customer purchased furniture worth $68.87.,Highly recommend!
+224.0,32.334368575520536,1646.0,Customer purchased clothing worth $32.33.,Excellent experience.
+225.0,87.0159324540077,1678.0,Customer requested refund for cosmetics worth $87.02.,Will buy again!
+226.0,34.528113601375296,1950.0,Customer requested refund for clothing worth $34.53.,Product arrived broken.
+227.0,72.13258352324524,1995.0,Customer returned electronics worth $72.13.,Very disappointed with the product quality.
+228.0,55.797695917609126,1492.0,Customer purchased cosmetics worth $55.80.,Highly recommend!
+229.0,26.44706544020341,1395.0,Customer returned furniture worth $26.45.,The product does not match the description.
+230.0,99.7192337077914,1903.0,Customer requested refund for electronics worth $99.72.,The product does not match the description.
+231.0,39.30443808666833,1442.0,Customer requested refund for furniture worth $39.30.,Will buy again!
+232.0,48.95945026618623,1169.0,Customer exchanged clothing worth $48.96.,Will buy again!
+233.0,98.73461898413122,1767.0,Customer requested refund for clothing worth $98.73.,Very disappointed with the product quality.
+234.0,69.33327246195044,1221.0,Customer exchanged groceries worth $69.33.,The product does not match the description.
+235.0,65.34894374447977,1806.0,Customer returned clothing worth $65.35.,Will buy again!
+236.0,69.82507207727988,1999.0,Customer purchased furniture worth $69.83.,The product does not match the description.
+237.0,46.17260059157836,1506.0,Customer purchased cosmetics worth $46.17.,Satisfied with the purchase.
+238.0,55.20400597044325,1024.0,Customer purchased cosmetics worth $55.20.,Refund took too long.
+239.0,53.97929249001216,1359.0,Customer exchanged groceries worth $53.98.,Satisfied with the purchase.
+240.0,45.00641711892598,1892.0,Customer purchased furniture worth $45.01.,Refund took too long.
+241.0,27.18554242606038,1830.0,Customer requested refund for furniture worth $27.19.,Very disappointed with the product quality.
+242.0,25.420517132167863,1515.0,Customer requested refund for clothing worth $25.42.,Satisfied with the purchase.
+243.0,48.2529491789015,1479.0,Customer exchanged clothing worth $48.25.,Very disappointed with the product quality.
+244.0,38.65841154384127,1398.0,Customer purchased furniture worth $38.66.,Highly recommend!
+245.0,66.64627231049542,1848.0,Customer requested refund for clothing worth $66.65.,Excellent experience.
+246.0,67.64191353460876,1877.0,Customer requested refund for clothing worth $67.64.,The product does not match the description.
+247.0,95.63285443399356,1965.0,Customer purchased cosmetics worth $95.63.,Will buy again!
+248.0,81.69004135988487,1656.0,Customer returned clothing worth $81.69.,Excellent experience.
+249.0,60.724694915321855,1180.0,Customer purchased cosmetics worth $60.72.,Product arrived broken.
+250.0,60.55808100557361,1244.0,Customer returned electronics worth $60.56.,Product arrived broken.
+251.0,38.533109535613626,1406.0,Customer returned furniture worth $38.53.,"Great service, fast delivery!"
+252.0,39.64193470676073,1546.0,Customer purchased groceries worth $39.64.,Highly recommend!
+253.0,52.32859080638063,1316.0,Customer returned groceries worth $52.33.,Refund took too long.
+254.0,61.157045133672426,1768.0,Customer purchased furniture worth $61.16.,Product arrived broken.
+255.0,74.41673714777123,1983.0,Customer returned cosmetics worth $74.42.,"Great service, fast delivery!"
+256.0,16.70607949337328,1685.0,Customer exchanged clothing worth $16.71.,Excellent experience.
+257.0,23.740319049622585,1441.0,Customer requested refund for furniture worth $23.74.,Highly recommend!
+258.0,72.19579593152234,1198.0,Customer exchanged electronics worth $72.20.,Highly recommend!
+259.0,63.92237414443909,1990.0,Customer purchased groceries worth $63.92.,The product does not match the description.
+260.0,32.121734238901404,1893.0,Customer returned electronics worth $32.12.,Satisfied with the purchase.
+261.0,61.32263139109206,1558.0,Customer purchased electronics worth $61.32.,Refund took too long.
+262.0,54.47433021499057,1995.0,Customer returned cosmetics worth $54.47.,Customer support was unhelpful.
+263.0,27.336940402644966,1253.0,Customer returned groceries worth $27.34.,Excellent experience.
+264.0,31.305825185224148,1455.0,Customer purchased groceries worth $31.31.,Excellent experience.
+265.0,41.54205962794481,1017.0,Customer returned electronics worth $41.54.,Excellent experience.
+266.0,32.85924468136734,1393.0,Customer requested refund for groceries worth $32.86.,Will buy again!
+267.0,71.23473259275752,1866.0,Customer requested refund for furniture worth $71.23.,Refund took too long.
+268.0,26.619459510326152,1433.0,Customer purchased cosmetics worth $26.62.,Highly recommend!
+269.0,56.27958729651075,1229.0,Customer requested refund for cosmetics worth $56.28.,"Great service, fast delivery!"
+270.0,79.5393640180564,1786.0,Customer requested refund for clothing worth $79.54.,Refund took too long.
+271.0,36.75441407266821,1432.0,Customer requested refund for electronics worth $36.75.,The product does not match the description.
+272.0,58.17973707615728,1944.0,Customer returned cosmetics worth $58.18.,Customer support was unhelpful.
+273.0,28.303899974374268,1512.0,Customer exchanged clothing worth $28.30.,Satisfied with the purchase.
+274.0,35.92410077105648,1354.0,Customer requested refund for cosmetics worth $35.92.,Customer support was unhelpful.
+275.0,78.3127071416263,1873.0,Customer requested refund for furniture worth $78.31.,Excellent experience.
+276.0,35.05265258366971,1405.0,Customer exchanged groceries worth $35.05.,Satisfied with the purchase.
+277.0,70.79730570531635,1958.0,Customer purchased groceries worth $70.80.,"Great service, fast delivery!"
+278.0,61.10932034404943,1893.0,Customer requested refund for electronics worth $61.11.,Satisfied with the purchase.
+279.0,56.754616986193845,1535.0,Customer returned furniture worth $56.75.,Product arrived broken.
+280.0,16.219860051456457,1351.0,Customer requested refund for cosmetics worth $16.22.,Customer support was unhelpful.
+281.0,10.802412944130907,1848.0,Customer exchanged electronics worth $10.80.,"Great service, fast delivery!"
+282.0,66.57002449606415,1562.0,Customer returned cosmetics worth $66.57.,"Great service, fast delivery!"
+283.0,26.133992196232175,1817.0,Customer purchased furniture worth $26.13.,Product arrived broken.
+284.0,17.31735492821924,1649.0,Customer exchanged groceries worth $17.32.,The product does not match the description.
+285.0,75.32446317385762,1505.0,Customer requested refund for furniture worth $75.32.,The product does not match the description.
+286.0,30.768477767337625,1513.0,Customer returned groceries worth $30.77.,Very disappointed with the product quality.
+287.0,57.45622413714661,1604.0,Customer exchanged furniture worth $57.46.,The product does not match the description.
+288.0,73.3032970491333,1972.0,Customer requested refund for electronics worth $73.30.,The product does not match the description.
+289.0,96.23321419600772,1165.0,Customer requested refund for groceries worth $96.23.,Will buy again!
+290.0,77.3046654263469,1597.0,Customer exchanged furniture worth $77.30.,The product does not match the description.
+291.0,62.77388544748326,1462.0,Customer purchased cosmetics worth $62.77.,Customer support was unhelpful.
+292.0,56.5503597491276,1712.0,Customer requested refund for furniture worth $56.55.,Highly recommend!
+293.0,91.37503293179564,1100.0,Customer returned electronics worth $91.38.,Excellent experience.
+294.0,35.15145130726461,1009.0,Customer returned furniture worth $35.15.,The product does not match the description.
+295.0,34.5208597441328,1770.0,Customer exchanged groceries worth $34.52.,"Great service, fast delivery!"
+296.0,95.32857784875084,1678.0,Customer returned groceries worth $95.33.,Will buy again!
+297.0,51.40358574104649,1953.0,Customer exchanged cosmetics worth $51.40.,Will buy again!
+298.0,20.66255752728149,1239.0,Customer returned clothing worth $20.66.,Very disappointed with the product quality.
+299.0,53.65543294021365,1322.0,Customer exchanged furniture worth $53.66.,The product does not match the description.
+300.0,46.2432624020462,1940.0,Customer exchanged clothing worth $46.24.,Satisfied with the purchase.
+301.0,42.303801913906405,1994.0,Customer requested refund for furniture worth $42.30.,"Great service, fast delivery!"
+302.0,98.06620816132504,1437.0,Customer returned cosmetics worth $98.07.,Product arrived broken.
+303.0,61.98793644916741,1135.0,Customer exchanged cosmetics worth $61.99.,Customer support was unhelpful.
+304.0,15.083582510759244,1873.0,Customer returned electronics worth $15.08.,Product arrived broken.
+305.0,79.21418526693257,1233.0,Customer returned cosmetics worth $79.21.,Highly recommend!
+306.0,14.325618955526988,1701.0,Customer exchanged clothing worth $14.33.,Product arrived broken.
+307.0,74.04598056616143,1392.0,Customer requested refund for furniture worth $74.05.,Highly recommend!
+308.0,13.775391834001596,1468.0,Customer returned electronics worth $13.78.,Highly recommend!
+309.0,20.773444943242666,1759.0,Customer exchanged clothing worth $20.77.,The product does not match the description.
+310.0,76.94851055777721,1305.0,Customer exchanged cosmetics worth $76.95.,Will buy again!
+311.0,27.453116490888377,1060.0,Customer exchanged clothing worth $27.45.,Excellent experience.
+312.0,61.47768761043001,1557.0,Customer returned cosmetics worth $61.48.,Will buy again!
+313.0,68.64043640103054,1157.0,Customer exchanged clothing worth $68.64.,Will buy again!
+314.0,39.75178064381655,1968.0,Customer requested refund for electronics worth $39.75.,Refund took too long.
+315.0,84.98269506569027,1555.0,Customer purchased clothing worth $84.98.,Will buy again!
+316.0,29.291555935495328,1112.0,Customer requested refund for cosmetics worth $29.29.,Excellent experience.
+317.0,22.18984231519618,1292.0,Customer requested refund for groceries worth $22.19.,Customer support was unhelpful.
+318.0,64.22877239230128,1346.0,Customer requested refund for furniture worth $64.23.,Product arrived broken.
+319.0,23.85431432932064,1129.0,Customer requested refund for groceries worth $23.85.,Highly recommend!
+320.0,85.9983524413847,1903.0,Customer requested refund for furniture worth $86.00.,Customer support was unhelpful.
+321.0,57.86994336632967,1078.0,Customer returned cosmetics worth $57.87.,Product arrived broken.
+322.0,88.09696867382264,1702.0,Customer requested refund for furniture worth $88.10.,Excellent experience.
+323.0,10.047488390659712,1466.0,Customer returned groceries worth $10.05.,Highly recommend!
+324.0,24.83845006368293,1437.0,Customer exchanged clothing worth $24.84.,"Great service, fast delivery!"
+325.0,47.84508341466206,1783.0,Customer returned clothing worth $47.85.,Customer support was unhelpful.
+326.0,14.615120532256274,1695.0,Customer returned groceries worth $14.62.,Product arrived broken.
+327.0,60.68884239418577,1172.0,Customer exchanged groceries worth $60.69.,Very disappointed with the product quality.
+328.0,61.232174778009686,1947.0,Customer purchased clothing worth $61.23.,"Great service, fast delivery!"
+329.0,93.37250431864632,1086.0,Customer requested refund for electronics worth $93.37.,Excellent experience.
+330.0,95.76692181306092,1275.0,Customer returned cosmetics worth $95.77.,Very disappointed with the product quality.
+331.0,61.88904454076027,1657.0,Customer exchanged clothing worth $61.89.,Excellent experience.
+332.0,70.86740450604661,1624.0,Customer requested refund for furniture worth $70.87.,Satisfied with the purchase.
+333.0,70.95760928948519,1729.0,Customer returned clothing worth $70.96.,Very disappointed with the product quality.
+334.0,47.59519154883488,1300.0,Customer purchased furniture worth $47.60.,Refund took too long.
+335.0,84.74839337828455,1311.0,Customer exchanged cosmetics worth $84.75.,Product arrived broken.
+336.0,64.2996060597047,1280.0,Customer requested refund for groceries worth $64.30.,Refund took too long.
+337.0,59.06558827131725,1058.0,Customer purchased clothing worth $59.07.,"Great service, fast delivery!"
+338.0,59.40095528433461,1724.0,Customer purchased clothing worth $59.40.,Satisfied with the purchase.
+339.0,26.18399976018048,1067.0,Customer purchased furniture worth $26.18.,Customer support was unhelpful.
+340.0,69.1723428057365,1438.0,Customer returned furniture worth $69.17.,The product does not match the description.
+341.0,60.74497628008697,1531.0,Customer returned cosmetics worth $60.74.,The product does not match the description.
+342.0,60.98699494097934,1832.0,Customer exchanged cosmetics worth $60.99.,Customer support was unhelpful.
+343.0,99.61607032247228,1382.0,Customer exchanged electronics worth $99.62.,Product arrived broken.
+344.0,84.49928399139073,1434.0,Customer requested refund for furniture worth $84.50.,Very disappointed with the product quality.
+345.0,37.87307960365036,1440.0,Customer purchased clothing worth $37.87.,Product arrived broken.
+346.0,38.69316720496097,1157.0,Customer exchanged electronics worth $38.69.,"Great service, fast delivery!"
+347.0,45.02844839488476,1328.0,Customer purchased furniture worth $45.03.,The product does not match the description.
+348.0,66.4761842492444,1957.0,Customer requested refund for cosmetics worth $66.48.,Refund took too long.
+349.0,74.41312191791293,1033.0,Customer requested refund for cosmetics worth $74.41.,Very disappointed with the product quality.
+350.0,43.45501371682296,1615.0,Customer purchased furniture worth $43.46.,Customer support was unhelpful.
+351.0,28.343420494036856,1286.0,Customer returned furniture worth $28.34.,Very disappointed with the product quality.
+352.0,70.0043034747928,1152.0,Customer requested refund for electronics worth $70.00.,Highly recommend!
+353.0,89.08776661986285,1137.0,Customer purchased cosmetics worth $89.09.,Customer support was unhelpful.
+354.0,66.08579500983927,1176.0,Customer requested refund for clothing worth $66.09.,Very disappointed with the product quality.
+355.0,76.34999350541855,1281.0,Customer requested refund for clothing worth $76.35.,Refund took too long.
+356.0,60.30707463914428,1788.0,Customer purchased furniture worth $60.31.,Highly recommend!
+357.0,33.61255713368315,1048.0,Customer purchased furniture worth $33.61.,Refund took too long.
+358.0,41.6707105414218,1073.0,Customer purchased electronics worth $41.67.,Will buy again!
+359.0,47.12640903265764,1572.0,Customer returned furniture worth $47.13.,Customer support was unhelpful.
+360.0,41.70586082062327,1264.0,Customer purchased cosmetics worth $41.71.,Very disappointed with the product quality.
+361.0,42.32811860407804,1864.0,Customer exchanged clothing worth $42.33.,Product arrived broken.
+362.0,71.7368591339746,1285.0,Customer returned cosmetics worth $71.74.,Very disappointed with the product quality.
+363.0,72.73147248409899,1602.0,Customer requested refund for clothing worth $72.73.,Excellent experience.
+364.0,61.1365320200304,1424.0,Customer requested refund for clothing worth $61.14.,Will buy again!
+365.0,40.658978551453465,1214.0,Customer purchased electronics worth $40.66.,Satisfied with the purchase.
+366.0,38.31991504407297,1682.0,Customer purchased cosmetics worth $38.32.,Excellent experience.
+367.0,67.84335713396852,1777.0,Customer purchased furniture worth $67.84.,Customer support was unhelpful.
+368.0,39.31159079569777,1272.0,Customer requested refund for clothing worth $39.31.,Product arrived broken.
+369.0,70.5201057693231,1427.0,Customer returned furniture worth $70.52.,Excellent experience.
+370.0,81.39167697229831,1159.0,Customer returned clothing worth $81.39.,Very disappointed with the product quality.
+371.0,41.02830654379494,1339.0,Customer returned furniture worth $41.03.,Will buy again!
+372.0,63.45304123221416,1855.0,Customer requested refund for groceries worth $63.45.,Product arrived broken.
+373.0,71.95418453277574,1825.0,Customer purchased groceries worth $71.95.,The product does not match the description.
+374.0,74.94314154163287,1967.0,Customer exchanged clothing worth $74.94.,Highly recommend!
+375.0,29.137192085767744,1914.0,Customer returned clothing worth $29.14.,Excellent experience.
+376.0,30.412437389916438,1311.0,Customer requested refund for furniture worth $30.41.,Excellent experience.
+377.0,94.34946872070527,1416.0,Customer returned cosmetics worth $94.35.,The product does not match the description.
+378.0,25.562897726593995,1586.0,Customer exchanged electronics worth $25.56.,"Great service, fast delivery!"
+379.0,95.69370268467728,1482.0,Customer purchased electronics worth $95.69.,Refund took too long.
+380.0,35.73345140902997,1400.0,Customer requested refund for electronics worth $35.73.,Excellent experience.
+381.0,60.52724778740764,1764.0,Customer purchased groceries worth $60.53.,Satisfied with the purchase.
+382.0,16.55367815863712,1397.0,Customer purchased furniture worth $16.55.,Refund took too long.
+383.0,27.254337830091647,1423.0,Customer exchanged furniture worth $27.25.,Will buy again!
+384.0,31.80425218452422,1516.0,Customer purchased electronics worth $31.80.,The product does not match the description.
+385.0,55.76476528750271,1180.0,Customer exchanged electronics worth $55.76.,The product does not match the description.
+386.0,72.91097613446743,1750.0,Customer requested refund for groceries worth $72.91.,Very disappointed with the product quality.
+387.0,71.02737815902991,1836.0,Customer requested refund for groceries worth $71.03.,Highly recommend!
+388.0,25.85006970131933,1433.0,Customer returned cosmetics worth $25.85.,Product arrived broken.
+389.0,94.52284775775556,1645.0,Customer purchased electronics worth $94.52.,"Great service, fast delivery!"
+390.0,71.88748429042212,1108.0,Customer exchanged groceries worth $71.89.,Refund took too long.
+391.0,60.77755146349649,1653.0,Customer returned cosmetics worth $60.78.,Very disappointed with the product quality.
+392.0,83.56995599613906,1995.0,Customer returned electronics worth $83.57.,The product does not match the description.
+393.0,36.838900427625575,1062.0,Customer requested refund for furniture worth $36.84.,Refund took too long.
+394.0,30.505413673611777,1802.0,Customer purchased groceries worth $30.51.,Excellent experience.
+395.0,15.699212220552296,1723.0,Customer requested refund for groceries worth $15.70.,The product does not match the description.
+396.0,97.54709538756718,1146.0,Customer exchanged groceries worth $97.55.,Refund took too long.
+397.0,28.914617957341772,1150.0,Customer returned electronics worth $28.91.,Product arrived broken.
+398.0,40.36412587140183,1244.0,Customer exchanged furniture worth $40.36.,Customer support was unhelpful.
+399.0,71.44717321901103,1807.0,Customer requested refund for electronics worth $71.45.,Satisfied with the purchase.
+400.0,94.81678805829148,1345.0,Customer returned clothing worth $94.82.,Excellent experience.
+401.0,73.49337233388856,1540.0,Customer exchanged clothing worth $73.49.,Very disappointed with the product quality.
+402.0,60.43128926324833,1709.0,Customer exchanged furniture worth $60.43.,Highly recommend!
+403.0,23.412394540837305,1120.0,Customer exchanged clothing worth $23.41.,Satisfied with the purchase.
+404.0,60.60671051232616,1144.0,Customer requested refund for furniture worth $60.61.,"Great service, fast delivery!"
+405.0,83.55191142615169,1578.0,Customer requested refund for groceries worth $83.55.,The product does not match the description.
+406.0,16.358985768519588,1586.0,Customer returned furniture worth $16.36.,Satisfied with the purchase.
+407.0,28.04993891463165,1943.0,Customer requested refund for electronics worth $28.05.,Very disappointed with the product quality.
+408.0,83.24582001706487,1977.0,Customer purchased furniture worth $83.25.,Customer support was unhelpful.
+409.0,12.826814822817395,1717.0,Customer purchased groceries worth $12.83.,Customer support was unhelpful.
+410.0,25.0084947085094,1350.0,Customer requested refund for furniture worth $25.01.,Excellent experience.
+411.0,98.3970945564576,1530.0,Customer purchased cosmetics worth $98.40.,Satisfied with the purchase.
+412.0,86.78591683383922,1814.0,Customer exchanged groceries worth $86.79.,Very disappointed with the product quality.
+413.0,98.50040705533956,1208.0,Customer exchanged groceries worth $98.50.,Excellent experience.
+414.0,69.88048811693454,1214.0,Customer exchanged groceries worth $69.88.,The product does not match the description.
+415.0,58.78615442613221,1904.0,Customer requested refund for clothing worth $58.79.,The product does not match the description.
+416.0,76.9300755910293,1875.0,Customer returned furniture worth $76.93.,Highly recommend!
+417.0,84.73217509479606,1480.0,Customer exchanged groceries worth $84.73.,Product arrived broken.
+418.0,14.19155734948768,1282.0,Customer purchased cosmetics worth $14.19.,Refund took too long.
+419.0,41.354180924006975,1109.0,Customer purchased cosmetics worth $41.35.,Customer support was unhelpful.
+420.0,79.33627628450796,1304.0,Customer returned groceries worth $79.34.,Product arrived broken.
+421.0,26.24046796545926,1906.0,Customer exchanged furniture worth $26.24.,Customer support was unhelpful.
+422.0,66.95973903298082,1218.0,Customer exchanged clothing worth $66.96.,Customer support was unhelpful.
+423.0,17.825253318757426,1773.0,Customer exchanged furniture worth $17.83.,Highly recommend!
+424.0,65.62243454329231,1666.0,Customer returned groceries worth $65.62.,Very disappointed with the product quality.
+425.0,52.91248936316756,1708.0,Customer exchanged groceries worth $52.91.,Highly recommend!
+426.0,54.95473462280644,1389.0,Customer purchased cosmetics worth $54.95.,Very disappointed with the product quality.
+427.0,57.04065911383756,1026.0,Customer requested refund for groceries worth $57.04.,Product arrived broken.
+428.0,11.567143945631798,1293.0,Customer returned groceries worth $11.57.,Satisfied with the purchase.
+429.0,50.4900697444044,1518.0,Customer exchanged electronics worth $50.49.,The product does not match the description.
+430.0,26.73357583443433,1167.0,Customer requested refund for cosmetics worth $26.73.,Refund took too long.
+431.0,70.34986000122497,1713.0,Customer purchased groceries worth $70.35.,Highly recommend!
+432.0,82.1111607613807,1972.0,Customer returned groceries worth $82.11.,Product arrived broken.
+433.0,26.719047821992245,1213.0,Customer exchanged clothing worth $26.72.,Very disappointed with the product quality.
+434.0,31.736387333577436,1571.0,Customer requested refund for electronics worth $31.74.,Very disappointed with the product quality.
+435.0,23.73086258823552,1886.0,Customer purchased furniture worth $23.73.,Will buy again!
+436.0,44.49934478211936,1658.0,Customer returned furniture worth $44.50.,Satisfied with the purchase.
+437.0,20.32425877023761,1155.0,Customer requested refund for electronics worth $20.32.,Highly recommend!
+438.0,38.41693891133238,1190.0,Customer purchased electronics worth $38.42.,Excellent experience.
+439.0,90.96302095740636,1190.0,Customer purchased groceries worth $90.96.,Will buy again!
+440.0,86.5937053715803,1175.0,Customer requested refund for electronics worth $86.59.,Will buy again!
+441.0,59.292725283190485,1376.0,Customer purchased electronics worth $59.29.,Highly recommend!
+442.0,92.38660636515849,1330.0,Customer purchased furniture worth $92.39.,"Great service, fast delivery!"
+443.0,48.00091682800642,1018.0,Customer requested refund for furniture worth $48.00.,Satisfied with the purchase.
+444.0,76.41250123375404,1512.0,Customer purchased groceries worth $76.41.,Product arrived broken.
+445.0,12.79231871756009,1704.0,Customer purchased groceries worth $12.79.,Excellent experience.
+446.0,21.93791661410581,1059.0,Customer requested refund for furniture worth $21.94.,Refund took too long.
+447.0,73.16714728850143,1608.0,Customer purchased cosmetics worth $73.17.,Refund took too long.
+448.0,62.874333971672,1240.0,Customer requested refund for groceries worth $62.87.,The product does not match the description.
+449.0,12.95472549914229,1358.0,Customer purchased furniture worth $12.95.,"Great service, fast delivery!"
+450.0,11.167088142720043,1004.0,Customer exchanged electronics worth $11.17.,Satisfied with the purchase.
+451.0,76.89786951844191,1902.0,Customer exchanged electronics worth $76.90.,Will buy again!
+452.0,63.342656568436645,1775.0,Customer returned groceries worth $63.34.,Highly recommend!
+453.0,62.90008313642736,1927.0,Customer requested refund for cosmetics worth $62.90.,Excellent experience.
+454.0,82.94038053812939,1255.0,Customer exchanged cosmetics worth $82.94.,Excellent experience.
+455.0,58.10792253138713,1827.0,Customer returned furniture worth $58.11.,Product arrived broken.
+456.0,10.58886273242011,1191.0,Customer exchanged cosmetics worth $10.59.,Highly recommend!
+457.0,73.61390202453833,1266.0,Customer exchanged cosmetics worth $73.61.,Product arrived broken.
+458.0,35.290104499573374,1786.0,Customer requested refund for groceries worth $35.29.,Will buy again!
+459.0,40.22710518557125,1024.0,Customer returned cosmetics worth $40.23.,Will buy again!
+460.0,83.69207703681916,1417.0,Customer exchanged furniture worth $83.69.,Will buy again!
+461.0,27.578224851691395,1283.0,Customer purchased furniture worth $27.58.,Will buy again!
+462.0,53.23106554463996,1462.0,Customer exchanged electronics worth $53.23.,Customer support was unhelpful.
+463.0,44.86059945676822,1623.0,Customer returned groceries worth $44.86.,Excellent experience.
+464.0,15.721131427539593,1615.0,Customer returned clothing worth $15.72.,Highly recommend!
+465.0,96.77041059859228,1488.0,Customer exchanged groceries worth $96.77.,Product arrived broken.
+466.0,88.22726088325255,1144.0,Customer returned furniture worth $88.23.,Excellent experience.
+467.0,39.62535994411866,1979.0,Customer requested refund for clothing worth $39.63.,Product arrived broken.
+468.0,91.1696888971712,1008.0,Customer returned cosmetics worth $91.17.,Refund took too long.
+469.0,62.87616987614589,1497.0,Customer exchanged furniture worth $62.88.,Will buy again!
+470.0,47.28406366967809,1702.0,Customer returned groceries worth $47.28.,Highly recommend!
+471.0,57.86820257846373,1696.0,Customer purchased groceries worth $57.87.,Satisfied with the purchase.
+472.0,19.423373683323028,1969.0,Customer returned groceries worth $19.42.,Will buy again!
+473.0,54.46741969722593,1807.0,Customer exchanged cosmetics worth $54.47.,Refund took too long.
+474.0,47.2247769165285,1124.0,Customer returned clothing worth $47.22.,Refund took too long.
+475.0,64.7020765138534,1912.0,Customer purchased cosmetics worth $64.70.,Highly recommend!
+476.0,54.66513489536387,1315.0,Customer requested refund for clothing worth $54.67.,The product does not match the description.
+477.0,93.94593260347892,1357.0,Customer exchanged cosmetics worth $93.95.,Satisfied with the purchase.
+478.0,69.7694462534096,1851.0,Customer exchanged furniture worth $69.77.,"Great service, fast delivery!"
+479.0,40.104020200685696,1202.0,Customer purchased cosmetics worth $40.10.,Highly recommend!
+480.0,60.89811247736398,1834.0,Customer returned electronics worth $60.90.,Customer support was unhelpful.
+481.0,44.37900942452836,1944.0,Customer exchanged clothing worth $44.38.,Highly recommend!
+482.0,70.04776805143774,1573.0,Customer requested refund for furniture worth $70.05.,The product does not match the description.
+483.0,36.97154016926994,1943.0,Customer purchased clothing worth $36.97.,Excellent experience.
+484.0,12.787029418188828,1219.0,Customer purchased clothing worth $12.79.,"Great service, fast delivery!"
+485.0,58.70630745788713,1223.0,Customer returned electronics worth $58.71.,Satisfied with the purchase.
+486.0,45.96479075728064,1753.0,Customer requested refund for clothing worth $45.96.,Excellent experience.
+487.0,22.088313163352225,1699.0,Customer exchanged electronics worth $22.09.,Very disappointed with the product quality.
+488.0,95.79803309772218,1862.0,Customer exchanged clothing worth $95.80.,Highly recommend!
+489.0,19.07706730811892,1197.0,Customer purchased groceries worth $19.08.,Product arrived broken.
+490.0,61.482473424574415,1690.0,Customer exchanged electronics worth $61.48.,Customer support was unhelpful.
+491.0,69.91745393115764,1207.0,Customer returned cosmetics worth $69.92.,The product does not match the description.
+492.0,17.903935219000818,1122.0,Customer exchanged cosmetics worth $17.90.,Refund took too long.
+493.0,22.27135442311328,1626.0,Customer requested refund for groceries worth $22.27.,Excellent experience.
+494.0,21.08546901703194,1931.0,Customer returned electronics worth $21.09.,Customer support was unhelpful.
+495.0,32.92013195873318,1343.0,Customer requested refund for groceries worth $32.92.,Very disappointed with the product quality.
+496.0,38.411192485188,1126.0,Customer exchanged clothing worth $38.41.,The product does not match the description.
+497.0,69.39748498852232,1405.0,Customer returned clothing worth $69.40.,Customer support was unhelpful.
+498.0,65.61696394010804,1587.0,Customer exchanged furniture worth $65.62.,Will buy again!
+499.0,25.40830020808809,1276.0,Customer exchanged furniture worth $25.41.,Refund took too long.
+500.0,67.29044394590485,1441.0,Customer requested refund for electronics worth $67.29.,Very disappointed with the product quality.
+501.0,91.6907402268582,1618.0,Customer purchased cosmetics worth $91.69.,Will buy again!
+502.0,77.4561808153056,1484.0,Customer requested refund for groceries worth $77.46.,Highly recommend!
+503.0,45.158314001601454,1655.0,Customer requested refund for furniture worth $45.16.,Product arrived broken.
+504.0,93.49535668273188,1025.0,Customer exchanged groceries worth $93.50.,Product arrived broken.
+505.0,53.931161018025975,1794.0,Customer returned furniture worth $53.93.,Satisfied with the purchase.
+506.0,81.71166645699894,1295.0,Customer purchased groceries worth $81.71.,Customer support was unhelpful.
+507.0,59.46381398714095,1741.0,Customer returned electronics worth $59.46.,Customer support was unhelpful.
+508.0,14.139387559786153,1266.0,Customer exchanged furniture worth $14.14.,Product arrived broken.
+509.0,61.48081498804065,1600.0,Customer returned electronics worth $61.48.,Very disappointed with the product quality.
+510.0,56.79197048335646,1825.0,Customer requested refund for clothing worth $56.79.,Satisfied with the purchase.
+511.0,54.78567418688587,1174.0,Customer returned cosmetics worth $54.79.,"Great service, fast delivery!"
+512.0,23.521178993762483,1792.0,Customer exchanged electronics worth $23.52.,"Great service, fast delivery!"
+513.0,57.82044734885588,1613.0,Customer returned groceries worth $57.82.,"Great service, fast delivery!"
+514.0,47.31206587825806,1562.0,Customer requested refund for furniture worth $47.31.,Highly recommend!
+515.0,25.03864028565554,1265.0,Customer requested refund for electronics worth $25.04.,Refund took too long.
+516.0,19.74409229922852,1360.0,Customer returned clothing worth $19.74.,The product does not match the description.
+517.0,63.14752710370071,1356.0,Customer requested refund for furniture worth $63.15.,Excellent experience.
+518.0,77.02315549089194,1352.0,Customer purchased electronics worth $77.02.,Satisfied with the purchase.
+519.0,42.6041988042216,1697.0,Customer exchanged groceries worth $42.60.,Satisfied with the purchase.
+520.0,98.59494640028537,1050.0,Customer requested refund for groceries worth $98.59.,"Great service, fast delivery!"
+521.0,29.32097037446717,1604.0,Customer exchanged electronics worth $29.32.,Excellent experience.
+522.0,26.18436652741295,1608.0,Customer requested refund for furniture worth $26.18.,"Great service, fast delivery!"
+523.0,10.933045904656083,1318.0,Customer returned electronics worth $10.93.,Will buy again!
+524.0,53.8004241417046,1503.0,Customer returned cosmetics worth $53.80.,Refund took too long.
+525.0,28.32936501855892,1029.0,Customer requested refund for furniture worth $28.33.,Excellent experience.
+526.0,76.27368428978873,1052.0,Customer requested refund for cosmetics worth $76.27.,Will buy again!
+527.0,39.82600629262846,1111.0,Customer requested refund for cosmetics worth $39.83.,Satisfied with the purchase.
+528.0,70.00810139898996,1501.0,Customer requested refund for clothing worth $70.01.,Very disappointed with the product quality.
+529.0,89.71731744470446,1828.0,Customer purchased furniture worth $89.72.,Product arrived broken.
+530.0,27.25454050385736,1231.0,Customer exchanged cosmetics worth $27.25.,The product does not match the description.
+531.0,42.27816571071364,1978.0,Customer purchased cosmetics worth $42.28.,Customer support was unhelpful.
+532.0,57.13668560793148,1496.0,Customer requested refund for cosmetics worth $57.14.,Satisfied with the purchase.
+533.0,81.49987554510696,1629.0,Customer purchased cosmetics worth $81.50.,Highly recommend!
+534.0,49.1099285143028,1477.0,Customer purchased cosmetics worth $49.11.,The product does not match the description.
+535.0,42.02200366989237,1425.0,Customer exchanged groceries worth $42.02.,Very disappointed with the product quality.
+536.0,80.51907113899962,1837.0,Customer exchanged cosmetics worth $80.52.,Product arrived broken.
+537.0,95.2233254396807,1954.0,Customer exchanged clothing worth $95.22.,Very disappointed with the product quality.
+538.0,77.11603142702253,1146.0,Customer requested refund for cosmetics worth $77.12.,"Great service, fast delivery!"
+539.0,59.58695557387782,1591.0,Customer exchanged cosmetics worth $59.59.,"Great service, fast delivery!"
+540.0,44.12676518046912,1764.0,Customer returned groceries worth $44.13.,Refund took too long.
+541.0,69.23669463993528,1510.0,Customer purchased groceries worth $69.24.,"Great service, fast delivery!"
+542.0,44.09464247346977,1382.0,Customer returned furniture worth $44.09.,"Great service, fast delivery!"
+543.0,99.7753583900932,1439.0,Customer returned furniture worth $99.78.,Excellent experience.
+544.0,52.99118399043776,1955.0,Customer purchased furniture worth $52.99.,"Great service, fast delivery!"
+545.0,68.36571539188091,1016.0,Customer requested refund for groceries worth $68.37.,Customer support was unhelpful.
+546.0,12.301068214462283,1460.0,Customer returned electronics worth $12.30.,Product arrived broken.
+547.0,98.64640220462732,1073.0,Customer purchased cosmetics worth $98.65.,The product does not match the description.
+548.0,85.31413995164209,1814.0,Customer purchased cosmetics worth $85.31.,The product does not match the description.
+549.0,21.032649355713,1660.0,Customer exchanged cosmetics worth $21.03.,The product does not match the description.
+550.0,82.00373953388333,1204.0,Customer purchased clothing worth $82.00.,The product does not match the description.
+551.0,82.16413416183838,1897.0,Customer requested refund for furniture worth $82.16.,Satisfied with the purchase.
+552.0,30.561099365798057,1260.0,Customer exchanged cosmetics worth $30.56.,Highly recommend!
+553.0,52.69894800838486,1507.0,Customer requested refund for furniture worth $52.70.,Product arrived broken.
+554.0,66.54225115991392,1119.0,Customer exchanged electronics worth $66.54.,Customer support was unhelpful.
+555.0,66.48799723490322,1141.0,Customer purchased groceries worth $66.49.,Satisfied with the purchase.
+556.0,74.17323414002594,1822.0,Customer returned electronics worth $74.17.,"Great service, fast delivery!"
+557.0,66.24446927138561,1307.0,Customer purchased furniture worth $66.24.,Highly recommend!
+558.0,18.424787046927303,1176.0,Customer requested refund for cosmetics worth $18.42.,Highly recommend!
+559.0,96.40709405350066,1634.0,Customer exchanged cosmetics worth $96.41.,Customer support was unhelpful.
+560.0,37.37105363161972,1289.0,Customer requested refund for furniture worth $37.37.,Satisfied with the purchase.
+561.0,57.89155841423759,1923.0,Customer requested refund for clothing worth $57.89.,Excellent experience.
+562.0,65.14444373979248,1668.0,Customer exchanged groceries worth $65.14.,Refund took too long.
+563.0,50.9463446687639,1732.0,Customer returned furniture worth $50.95.,Very disappointed with the product quality.
+564.0,90.15169745639956,1666.0,Customer purchased electronics worth $90.15.,The product does not match the description.
+565.0,49.695996077348,1624.0,Customer requested refund for clothing worth $49.70.,Refund took too long.
+566.0,71.98504539358078,1786.0,Customer requested refund for cosmetics worth $71.99.,Highly recommend!
+567.0,39.17632975406391,1019.0,Customer exchanged cosmetics worth $39.18.,Satisfied with the purchase.
+568.0,50.82386517906335,1978.0,Customer requested refund for cosmetics worth $50.82.,The product does not match the description.
+569.0,85.30076766804406,1655.0,Customer returned furniture worth $85.30.,Refund took too long.
+570.0,80.89642698729558,1264.0,Customer purchased groceries worth $80.90.,Will buy again!
+571.0,55.69524903185309,1487.0,Customer requested refund for electronics worth $55.70.,Product arrived broken.
+572.0,88.50391549409335,1219.0,Customer requested refund for furniture worth $88.50.,"Great service, fast delivery!"
+573.0,75.88625236108902,1102.0,Customer returned cosmetics worth $75.89.,Satisfied with the purchase.
+574.0,35.17601923028805,1799.0,Customer requested refund for cosmetics worth $35.18.,Highly recommend!
+575.0,62.98349325215778,1137.0,Customer requested refund for clothing worth $62.98.,Will buy again!
+576.0,97.0455292967774,1125.0,Customer returned cosmetics worth $97.05.,Refund took too long.
+577.0,76.76312543775113,1051.0,Customer exchanged clothing worth $76.76.,Refund took too long.
+578.0,62.16550879121196,1268.0,Customer returned clothing worth $62.17.,Satisfied with the purchase.
+579.0,28.500072838813903,1882.0,Customer exchanged furniture worth $28.50.,Refund took too long.
+580.0,39.91796998566471,1751.0,Customer returned clothing worth $39.92.,"Great service, fast delivery!"
+581.0,84.49886009864518,1769.0,Customer purchased cosmetics worth $84.50.,Very disappointed with the product quality.
+582.0,78.29820914461888,1853.0,Customer returned clothing worth $78.30.,Excellent experience.
+583.0,79.20261479658105,1622.0,Customer returned furniture worth $79.20.,Excellent experience.
+584.0,50.31919078514007,1412.0,Customer exchanged groceries worth $50.32.,Excellent experience.
+585.0,18.479134277595005,1036.0,Customer purchased furniture worth $18.48.,Customer support was unhelpful.
+586.0,55.648967645299344,1665.0,Customer returned clothing worth $55.65.,Very disappointed with the product quality.
+587.0,72.41360119397154,1299.0,Customer returned electronics worth $72.41.,Satisfied with the purchase.
+588.0,74.32146924411033,1351.0,Customer exchanged electronics worth $74.32.,Product arrived broken.
+589.0,25.97962923980079,1096.0,Customer returned groceries worth $25.98.,Excellent experience.
+590.0,70.54331536441717,1299.0,Customer purchased clothing worth $70.54.,The product does not match the description.
+591.0,82.50807121975488,1367.0,Customer returned cosmetics worth $82.51.,Excellent experience.
+592.0,57.87803871732218,1315.0,Customer exchanged groceries worth $57.88.,Satisfied with the purchase.
+593.0,27.87987923354001,1531.0,Customer returned groceries worth $27.88.,Highly recommend!
+594.0,22.01321045011379,1796.0,Customer requested refund for groceries worth $22.01.,Product arrived broken.
+595.0,14.71386198547468,1340.0,Customer exchanged groceries worth $14.71.,Refund took too long.
+596.0,44.32303083127752,1973.0,Customer requested refund for furniture worth $44.32.,Product arrived broken.
+597.0,93.92398331455088,1626.0,Customer purchased clothing worth $93.92.,Highly recommend!
+598.0,13.912774695481485,1558.0,Customer exchanged groceries worth $13.91.,Will buy again!
+599.0,81.80865066013159,1005.0,Customer returned groceries worth $81.81.,Product arrived broken.
+600.0,49.6812699232487,1510.0,Customer purchased electronics worth $49.68.,Very disappointed with the product quality.
+601.0,74.02517524763373,1565.0,Customer exchanged electronics worth $74.03.,Excellent experience.
+602.0,71.2219055244872,1573.0,Customer requested refund for cosmetics worth $71.22.,The product does not match the description.
+603.0,45.39753678823229,1691.0,Customer exchanged groceries worth $45.40.,Excellent experience.
+604.0,68.30467542833836,1176.0,Customer purchased cosmetics worth $68.30.,The product does not match the description.
+605.0,30.699545031070528,1470.0,Customer exchanged groceries worth $30.70.,Highly recommend!
+606.0,55.29436013469146,1174.0,Customer exchanged cosmetics worth $55.29.,Customer support was unhelpful.
+607.0,58.881829218778016,1289.0,Customer returned cosmetics worth $58.88.,Will buy again!
+608.0,26.436080264307773,1755.0,Customer exchanged clothing worth $26.44.,Will buy again!
+609.0,90.48071057199276,1132.0,Customer purchased clothing worth $90.48.,Customer support was unhelpful.
+610.0,90.60563652231846,1239.0,Customer exchanged electronics worth $90.61.,Highly recommend!
+611.0,88.34186423374305,1912.0,Customer purchased electronics worth $88.34.,Customer support was unhelpful.
+612.0,36.90222620760606,1414.0,Customer requested refund for clothing worth $36.90.,Excellent experience.
+613.0,16.182846568927204,1770.0,Customer requested refund for cosmetics worth $16.18.,Customer support was unhelpful.
+614.0,11.564836282866452,1639.0,Customer exchanged clothing worth $11.56.,Excellent experience.
+615.0,14.560537509054024,1043.0,Customer requested refund for electronics worth $14.56.,"Great service, fast delivery!"
+616.0,40.83608859104079,1845.0,Customer purchased electronics worth $40.84.,Satisfied with the purchase.
+617.0,10.980455323300587,1821.0,Customer purchased groceries worth $10.98.,The product does not match the description.
+618.0,68.16151267115706,1595.0,Customer purchased groceries worth $68.16.,Satisfied with the purchase.
+619.0,51.20871487556867,1686.0,Customer purchased groceries worth $51.21.,"Great service, fast delivery!"
+620.0,30.79084603660721,1901.0,Customer returned electronics worth $30.79.,Very disappointed with the product quality.
+621.0,30.65272139730061,1139.0,Customer purchased groceries worth $30.65.,Will buy again!
+622.0,77.36867757108365,1406.0,Customer requested refund for furniture worth $77.37.,Highly recommend!
+623.0,75.26230757258354,1730.0,Customer requested refund for furniture worth $75.26.,"Great service, fast delivery!"
+624.0,91.4805744361771,1237.0,Customer returned furniture worth $91.48.,"Great service, fast delivery!"
+625.0,55.15725947347897,1758.0,Customer exchanged electronics worth $55.16.,Satisfied with the purchase.
+626.0,25.5487291410875,1385.0,Customer returned electronics worth $25.55.,The product does not match the description.
+627.0,96.58421668519038,1263.0,Customer exchanged groceries worth $96.58.,Product arrived broken.
+628.0,28.21936015497701,1736.0,Customer requested refund for cosmetics worth $28.22.,Very disappointed with the product quality.
+629.0,81.21645066050094,1626.0,Customer exchanged cosmetics worth $81.22.,Customer support was unhelpful.
+630.0,52.32636056805466,1399.0,Customer exchanged groceries worth $52.33.,Highly recommend!
+631.0,42.32786546597519,1137.0,Customer requested refund for electronics worth $42.33.,"Great service, fast delivery!"
+632.0,79.37134605324061,1612.0,Customer purchased clothing worth $79.37.,The product does not match the description.
+633.0,11.705082409397097,1303.0,Customer returned cosmetics worth $11.71.,Satisfied with the purchase.
+634.0,93.76508796403708,1865.0,Customer exchanged cosmetics worth $93.77.,"Great service, fast delivery!"
+635.0,83.14607235416698,1147.0,Customer requested refund for electronics worth $83.15.,Product arrived broken.
+636.0,81.49217872125034,1234.0,Customer requested refund for clothing worth $81.49.,Product arrived broken.
+637.0,27.77692981290428,1469.0,Customer purchased electronics worth $27.78.,Will buy again!
+638.0,99.87930230728328,1210.0,Customer purchased groceries worth $99.88.,Refund took too long.
+639.0,62.42142695281371,1802.0,Customer exchanged furniture worth $62.42.,Satisfied with the purchase.
+640.0,87.31040281854852,1836.0,Customer requested refund for clothing worth $87.31.,Satisfied with the purchase.
+641.0,30.9802390482118,1003.0,Customer returned electronics worth $30.98.,Refund took too long.
+642.0,79.32819585918911,1077.0,Customer returned cosmetics worth $79.33.,Very disappointed with the product quality.
+643.0,61.06243509196435,1691.0,Customer requested refund for groceries worth $61.06.,Highly recommend!
+644.0,73.44126228893867,1309.0,Customer exchanged furniture worth $73.44.,Excellent experience.
+645.0,67.27985921251647,1287.0,Customer exchanged furniture worth $67.28.,The product does not match the description.
+646.0,54.797029357519904,1825.0,Customer exchanged cosmetics worth $54.80.,Product arrived broken.
+647.0,25.04495445157386,1697.0,Customer returned furniture worth $25.04.,Customer support was unhelpful.
+648.0,75.84935112303506,1905.0,Customer purchased electronics worth $75.85.,Highly recommend!
+649.0,85.17938662507261,1367.0,Customer exchanged clothing worth $85.18.,Customer support was unhelpful.
+650.0,62.48034582066848,1853.0,Customer returned clothing worth $62.48.,Very disappointed with the product quality.
+651.0,28.508000375078176,1618.0,Customer requested refund for cosmetics worth $28.51.,Satisfied with the purchase.
+652.0,52.44516410974352,1902.0,Customer exchanged groceries worth $52.45.,Product arrived broken.
+653.0,49.48630478596331,1561.0,Customer requested refund for furniture worth $49.49.,"Great service, fast delivery!"
+654.0,91.06378341479328,1908.0,Customer returned electronics worth $91.06.,Very disappointed with the product quality.
+655.0,72.21970365622698,1161.0,Customer purchased electronics worth $72.22.,Excellent experience.
+656.0,68.50324359070589,1618.0,Customer returned cosmetics worth $68.50.,Satisfied with the purchase.
+657.0,70.9884772362866,1586.0,Customer exchanged electronics worth $70.99.,Excellent experience.
+658.0,84.6029052697291,1930.0,Customer returned clothing worth $84.60.,Product arrived broken.
+659.0,42.8212846728405,1712.0,Customer purchased furniture worth $42.82.,Very disappointed with the product quality.
+660.0,86.18244074893154,1279.0,Customer returned furniture worth $86.18.,Satisfied with the purchase.
+661.0,74.49932887587424,1926.0,Customer requested refund for groceries worth $74.50.,Will buy again!
+662.0,92.69624970525254,1244.0,Customer returned groceries worth $92.70.,Refund took too long.
+663.0,21.063195513748365,1519.0,Customer purchased electronics worth $21.06.,Refund took too long.
+664.0,14.717379319580264,1216.0,Customer exchanged groceries worth $14.72.,Refund took too long.
+665.0,91.57863524928663,1142.0,Customer purchased clothing worth $91.58.,Highly recommend!
+666.0,28.592261597177508,1937.0,Customer exchanged furniture worth $28.59.,The product does not match the description.
+667.0,77.68854755312054,1276.0,Customer requested refund for clothing worth $77.69.,Will buy again!
+668.0,55.96345624776244,1200.0,Customer requested refund for clothing worth $55.96.,"Great service, fast delivery!"
+669.0,64.79659280908365,1103.0,Customer returned groceries worth $64.80.,Customer support was unhelpful.
+670.0,81.03229268303691,1652.0,Customer returned groceries worth $81.03.,Excellent experience.
+671.0,67.69160248140025,1694.0,Customer purchased furniture worth $67.69.,Very disappointed with the product quality.
+672.0,95.16789027153231,1851.0,Customer purchased electronics worth $95.17.,"Great service, fast delivery!"
+673.0,88.37478319965568,1376.0,Customer exchanged electronics worth $88.37.,Will buy again!
+674.0,27.158338607648744,1155.0,Customer requested refund for cosmetics worth $27.16.,Excellent experience.
+675.0,34.24003152150763,1424.0,Customer exchanged furniture worth $34.24.,Excellent experience.
+676.0,26.700167800701976,1322.0,Customer exchanged furniture worth $26.70.,Refund took too long.
+677.0,24.59553861404803,1739.0,Customer purchased groceries worth $24.60.,Will buy again!
+678.0,32.42837607397003,1201.0,Customer exchanged clothing worth $32.43.,Refund took too long.
+679.0,11.082269823873848,1733.0,Customer exchanged electronics worth $11.08.,Will buy again!
+680.0,53.53627805243175,1971.0,Customer purchased clothing worth $53.54.,Will buy again!
+681.0,62.5699492545116,1430.0,Customer requested refund for groceries worth $62.57.,Satisfied with the purchase.
+682.0,42.62522075665218,1148.0,Customer returned furniture worth $42.63.,Product arrived broken.
+683.0,20.31636361219111,1653.0,Customer requested refund for clothing worth $20.32.,Refund took too long.
+684.0,64.2593447764263,1470.0,Customer returned furniture worth $64.26.,Customer support was unhelpful.
+685.0,94.33750212155311,1455.0,Customer requested refund for groceries worth $94.34.,The product does not match the description.
+686.0,62.52802725584856,1976.0,Customer purchased cosmetics worth $62.53.,The product does not match the description.
+687.0,82.13393908526164,1879.0,Customer requested refund for clothing worth $82.13.,Will buy again!
+688.0,23.623718740981552,1488.0,Customer requested refund for cosmetics worth $23.62.,Satisfied with the purchase.
+689.0,26.79596913388127,1920.0,Customer exchanged groceries worth $26.80.,Satisfied with the purchase.
+690.0,43.169543783855005,1428.0,Customer exchanged furniture worth $43.17.,Highly recommend!
+691.0,66.42078488287518,1276.0,Customer purchased cosmetics worth $66.42.,The product does not match the description.
+692.0,63.92805769196903,1469.0,Customer returned electronics worth $63.93.,Excellent experience.
+693.0,69.7365837058957,1480.0,Customer requested refund for cosmetics worth $69.74.,Very disappointed with the product quality.
+694.0,29.954415691190857,1770.0,Customer exchanged furniture worth $29.95.,"Great service, fast delivery!"
+695.0,40.76705710486746,1882.0,Customer returned cosmetics worth $40.77.,The product does not match the description.
+696.0,41.6034180231656,1683.0,Customer returned cosmetics worth $41.60.,Very disappointed with the product quality.
+697.0,62.3226204060321,1570.0,Customer requested refund for furniture worth $62.32.,Product arrived broken.
+698.0,63.67273677953057,1971.0,Customer purchased clothing worth $63.67.,Customer support was unhelpful.
+699.0,61.30719393260597,1189.0,Customer exchanged furniture worth $61.31.,Refund took too long.
+700.0,48.39383553760389,1637.0,Customer returned groceries worth $48.39.,Satisfied with the purchase.
+701.0,39.79126316421227,1424.0,Customer purchased cosmetics worth $39.79.,The product does not match the description.
+702.0,68.89307695977436,1516.0,Customer requested refund for cosmetics worth $68.89.,Highly recommend!
+703.0,53.20236312702749,1591.0,Customer exchanged furniture worth $53.20.,The product does not match the description.
+704.0,55.190900489311474,1876.0,Customer exchanged cosmetics worth $55.19.,Will buy again!
+705.0,13.492930777205416,1569.0,Customer purchased electronics worth $13.49.,The product does not match the description.
+706.0,50.21421191817755,1513.0,Customer returned cosmetics worth $50.21.,Excellent experience.
+707.0,13.34729469050691,1581.0,Customer exchanged furniture worth $13.35.,Very disappointed with the product quality.
+708.0,85.45344521372881,1835.0,Customer returned groceries worth $85.45.,Very disappointed with the product quality.
+709.0,54.75994303494783,1572.0,Customer requested refund for groceries worth $54.76.,Highly recommend!
+710.0,19.9715699068954,1072.0,Customer purchased clothing worth $19.97.,Excellent experience.
+711.0,33.00075703386983,1045.0,Customer exchanged electronics worth $33.00.,Refund took too long.
+712.0,25.893679758299516,1581.0,Customer requested refund for groceries worth $25.89.,The product does not match the description.
+713.0,38.96028129987119,1750.0,Customer exchanged electronics worth $38.96.,Product arrived broken.
+714.0,36.11516422807509,1989.0,Customer exchanged furniture worth $36.12.,Highly recommend!
+715.0,72.44134982030823,1033.0,Customer purchased cosmetics worth $72.44.,Very disappointed with the product quality.
+716.0,81.243458802052,1012.0,Customer requested refund for furniture worth $81.24.,Highly recommend!
+717.0,43.09556665844332,1410.0,Customer requested refund for electronics worth $43.10.,Very disappointed with the product quality.
+718.0,69.53802387013545,1618.0,Customer exchanged groceries worth $69.54.,"Great service, fast delivery!"
+719.0,76.25084286125376,1401.0,Customer returned electronics worth $76.25.,Satisfied with the purchase.
+720.0,95.39395604401498,1898.0,Customer purchased groceries worth $95.39.,Highly recommend!
+721.0,71.44316987743579,1891.0,Customer returned electronics worth $71.44.,Product arrived broken.
+722.0,63.87075935165029,1480.0,Customer returned electronics worth $63.87.,"Great service, fast delivery!"
+723.0,49.082009832494826,1438.0,Customer returned furniture worth $49.08.,Will buy again!
+724.0,13.471081558436213,1348.0,Customer returned electronics worth $13.47.,Satisfied with the purchase.
+725.0,50.95738369702053,1506.0,Customer returned cosmetics worth $50.96.,Highly recommend!
+726.0,97.9655891931388,1090.0,Customer exchanged electronics worth $97.97.,Satisfied with the purchase.
+727.0,46.614074084703766,1669.0,Customer returned clothing worth $46.61.,Excellent experience.
+728.0,86.76120603804294,1145.0,Customer requested refund for clothing worth $86.76.,The product does not match the description.
+729.0,31.367785962935866,1368.0,Customer returned groceries worth $31.37.,"Great service, fast delivery!"
+730.0,60.55966079501921,1743.0,Customer exchanged groceries worth $60.56.,"Great service, fast delivery!"
+731.0,44.00389673279336,1680.0,Customer purchased electronics worth $44.00.,Customer support was unhelpful.
+732.0,50.90991296286472,1366.0,Customer purchased furniture worth $50.91.,Will buy again!
+733.0,23.929025895640848,1197.0,Customer requested refund for cosmetics worth $23.93.,"Great service, fast delivery!"
+734.0,16.26661103201102,1976.0,Customer requested refund for groceries worth $16.27.,"Great service, fast delivery!"
+735.0,68.61623599279721,1610.0,Customer returned furniture worth $68.62.,Product arrived broken.
+736.0,64.23340291981916,1501.0,Customer purchased cosmetics worth $64.23.,Will buy again!
+737.0,95.16034881867868,1473.0,Customer exchanged electronics worth $95.16.,Will buy again!
+738.0,11.131439518619104,1399.0,Customer purchased electronics worth $11.13.,Very disappointed with the product quality.
+739.0,15.699135277903164,1630.0,Customer purchased clothing worth $15.70.,The product does not match the description.
+740.0,82.22250995908492,1413.0,Customer purchased groceries worth $82.22.,"Great service, fast delivery!"
+741.0,70.34427340238034,1148.0,Customer exchanged clothing worth $70.34.,"Great service, fast delivery!"
+742.0,99.88740974312738,1282.0,Customer requested refund for cosmetics worth $99.89.,Satisfied with the purchase.
+743.0,77.69859250112718,1521.0,Customer purchased clothing worth $77.70.,Refund took too long.
+744.0,85.95300105522477,1126.0,Customer purchased groceries worth $85.95.,Will buy again!
+745.0,90.13649701316616,1125.0,Customer returned clothing worth $90.14.,The product does not match the description.
+746.0,24.962467028590897,1252.0,Customer purchased clothing worth $24.96.,Product arrived broken.
+747.0,66.2454350634327,1581.0,Customer returned groceries worth $66.25.,Customer support was unhelpful.
+748.0,97.69235336466316,1269.0,Customer purchased cosmetics worth $97.69.,Excellent experience.
+749.0,62.11099449245757,1422.0,Customer requested refund for furniture worth $62.11.,Refund took too long.
+750.0,48.755442299879846,1405.0,Customer exchanged electronics worth $48.76.,The product does not match the description.
+751.0,26.509028435574177,1655.0,Customer purchased cosmetics worth $26.51.,The product does not match the description.
+752.0,88.54379953014886,1143.0,Customer purchased cosmetics worth $88.54.,Very disappointed with the product quality.
+753.0,72.96000414657226,1094.0,Customer purchased clothing worth $72.96.,"Great service, fast delivery!"
+754.0,78.96614976415842,1577.0,Customer exchanged groceries worth $78.97.,Customer support was unhelpful.
+755.0,50.52963956631847,1520.0,Customer purchased cosmetics worth $50.53.,Very disappointed with the product quality.
+756.0,36.37560297945699,1424.0,Customer requested refund for electronics worth $36.38.,Refund took too long.
+757.0,89.17189488257118,1160.0,Customer returned cosmetics worth $89.17.,"Great service, fast delivery!"
+758.0,61.919534669867325,1057.0,Customer exchanged furniture worth $61.92.,Product arrived broken.
+759.0,60.53439196536471,1399.0,Customer returned electronics worth $60.53.,"Great service, fast delivery!"
+760.0,29.53436473015511,1587.0,Customer requested refund for groceries worth $29.53.,Excellent experience.
+761.0,14.120197747692124,1168.0,Customer purchased clothing worth $14.12.,The product does not match the description.
+762.0,22.877015210034777,1711.0,Customer exchanged furniture worth $22.88.,Product arrived broken.
+763.0,79.74901394709434,1671.0,Customer purchased cosmetics worth $79.75.,Excellent experience.
+764.0,58.16222511639744,1163.0,Customer requested refund for furniture worth $58.16.,Very disappointed with the product quality.
+765.0,83.83365836596249,1381.0,Customer returned electronics worth $83.83.,Will buy again!
+766.0,56.62474277547674,1961.0,Customer exchanged furniture worth $56.62.,Refund took too long.
+767.0,35.74850060274453,1722.0,Customer requested refund for electronics worth $35.75.,Will buy again!
+768.0,13.93228352088363,1532.0,Customer returned electronics worth $13.93.,Refund took too long.
+769.0,39.16310961804249,1623.0,Customer exchanged groceries worth $39.16.,Will buy again!
+770.0,66.9648788192244,1555.0,Customer requested refund for cosmetics worth $66.96.,Satisfied with the purchase.
+771.0,72.13300401633145,1464.0,Customer requested refund for electronics worth $72.13.,Excellent experience.
+772.0,56.42487376973606,1091.0,Customer purchased clothing worth $56.42.,Satisfied with the purchase.
+773.0,40.148430428907375,1182.0,Customer requested refund for electronics worth $40.15.,"Great service, fast delivery!"
+774.0,11.02801846763564,1771.0,Customer purchased clothing worth $11.03.,Very disappointed with the product quality.
+775.0,55.29304755520577,1049.0,Customer returned clothing worth $55.29.,The product does not match the description.
+776.0,37.171320632196114,1799.0,Customer returned cosmetics worth $37.17.,Excellent experience.
+777.0,38.4598136030812,1615.0,Customer purchased cosmetics worth $38.46.,Excellent experience.
+778.0,53.63922443580429,1802.0,Customer exchanged electronics worth $53.64.,Very disappointed with the product quality.
+779.0,86.04909239430734,2000.0,Customer returned electronics worth $86.05.,Will buy again!
+780.0,37.21490182370482,1058.0,Customer purchased groceries worth $37.21.,Refund took too long.
+781.0,44.5079341726125,1678.0,Customer returned cosmetics worth $44.51.,Very disappointed with the product quality.
+782.0,33.63646677492327,1473.0,Customer requested refund for furniture worth $33.64.,The product does not match the description.
+783.0,72.3836349025095,1733.0,Customer requested refund for clothing worth $72.38.,Highly recommend!
+784.0,24.99217212263321,1649.0,Customer requested refund for electronics worth $24.99.,Refund took too long.
+785.0,93.97476921734388,1500.0,Customer requested refund for furniture worth $93.97.,Satisfied with the purchase.
+786.0,27.48195585196696,1366.0,Customer exchanged electronics worth $27.48.,Highly recommend!
+787.0,33.670626213973335,1001.0,Customer returned electronics worth $33.67.,"Great service, fast delivery!"
+788.0,75.52415113014018,1986.0,Customer returned groceries worth $75.52.,Refund took too long.
+789.0,69.45279091816774,1921.0,Customer exchanged groceries worth $69.45.,The product does not match the description.
+790.0,57.999821069456985,1808.0,Customer returned cosmetics worth $58.00.,Customer support was unhelpful.
+791.0,27.036676505451872,1503.0,Customer returned groceries worth $27.04.,Very disappointed with the product quality.
+792.0,72.01022436079609,1017.0,Customer purchased clothing worth $72.01.,Customer support was unhelpful.
+793.0,53.9678523381814,1195.0,Customer purchased furniture worth $53.97.,Refund took too long.
+794.0,50.2358498879414,1950.0,Customer exchanged groceries worth $50.24.,The product does not match the description.
+795.0,91.2293600351788,1673.0,Customer returned cosmetics worth $91.23.,Refund took too long.
+796.0,25.97000920702483,1528.0,Customer purchased cosmetics worth $25.97.,Highly recommend!
+797.0,58.46823104325883,1480.0,Customer returned cosmetics worth $58.47.,"Great service, fast delivery!"
+798.0,71.40047986174835,1771.0,Customer requested refund for furniture worth $71.40.,Refund took too long.
+799.0,23.095075391859403,1667.0,Customer purchased cosmetics worth $23.10.,Highly recommend!
+800.0,74.2479445014433,1429.0,Customer requested refund for groceries worth $74.25.,Product arrived broken.
+801.0,56.11778886499002,1152.0,Customer exchanged electronics worth $56.12.,"Great service, fast delivery!"
+802.0,37.101099109357335,1733.0,Customer returned electronics worth $37.10.,The product does not match the description.
+803.0,53.258294604800966,1273.0,Customer exchanged groceries worth $53.26.,Very disappointed with the product quality.
+804.0,86.57748678092385,1515.0,Customer requested refund for electronics worth $86.58.,Will buy again!
+805.0,34.78006778134278,1999.0,Customer requested refund for cosmetics worth $34.78.,Will buy again!
+806.0,10.006932562275091,1084.0,Customer purchased groceries worth $10.01.,Satisfied with the purchase.
+807.0,51.93353981623281,1244.0,Customer purchased cosmetics worth $51.93.,The product does not match the description.
+808.0,49.044804955239904,1622.0,Customer purchased clothing worth $49.04.,Customer support was unhelpful.
+809.0,98.18303499459222,1177.0,Customer exchanged groceries worth $98.18.,"Great service, fast delivery!"
+810.0,31.85157143386876,1263.0,Customer requested refund for groceries worth $31.85.,Very disappointed with the product quality.
+811.0,76.74537670541186,1944.0,Customer exchanged electronics worth $76.75.,The product does not match the description.
+812.0,28.032461086960588,1419.0,Customer exchanged cosmetics worth $28.03.,"Great service, fast delivery!"
+813.0,68.65040463700079,1418.0,Customer purchased cosmetics worth $68.65.,Customer support was unhelpful.
+814.0,38.08086935820676,1769.0,Customer requested refund for furniture worth $38.08.,Product arrived broken.
+815.0,94.63416453223545,1056.0,Customer purchased groceries worth $94.63.,Highly recommend!
+816.0,26.521145389628145,1924.0,Customer purchased cosmetics worth $26.52.,"Great service, fast delivery!"
+817.0,80.66698444089012,2000.0,Customer purchased groceries worth $80.67.,Will buy again!
+818.0,69.49314651509769,1843.0,Customer exchanged groceries worth $69.49.,The product does not match the description.
+819.0,80.55842031263705,1328.0,Customer purchased groceries worth $80.56.,Satisfied with the purchase.
+820.0,67.21601847741414,1469.0,Customer requested refund for electronics worth $67.22.,Very disappointed with the product quality.
+821.0,89.81374721715743,1625.0,Customer requested refund for clothing worth $89.81.,"Great service, fast delivery!"
+822.0,41.34483461775976,1899.0,Customer requested refund for clothing worth $41.34.,Satisfied with the purchase.
+823.0,61.03550802501376,1854.0,Customer requested refund for electronics worth $61.04.,Customer support was unhelpful.
+824.0,39.79553881400214,1687.0,Customer exchanged groceries worth $39.80.,Excellent experience.
+825.0,68.42739649280826,1549.0,Customer returned electronics worth $68.43.,Excellent experience.
+826.0,15.832750400060416,1981.0,Customer purchased cosmetics worth $15.83.,Satisfied with the purchase.
+827.0,51.66428111808683,1991.0,Customer purchased electronics worth $51.66.,Product arrived broken.
+828.0,32.965557871667784,1776.0,Customer exchanged electronics worth $32.97.,Highly recommend!
+829.0,98.14338652516008,1565.0,Customer requested refund for cosmetics worth $98.14.,Very disappointed with the product quality.
+830.0,88.88926748040059,1986.0,Customer requested refund for furniture worth $88.89.,Very disappointed with the product quality.
+831.0,29.627393510330677,1205.0,Customer exchanged groceries worth $29.63.,Highly recommend!
+832.0,85.29801409198318,1155.0,Customer requested refund for groceries worth $85.30.,Excellent experience.
+833.0,73.29570994113007,1277.0,Customer purchased clothing worth $73.30.,Product arrived broken.
+834.0,38.981553666269264,1311.0,Customer returned furniture worth $38.98.,Highly recommend!
+835.0,43.95689754114726,1503.0,Customer requested refund for clothing worth $43.96.,Satisfied with the purchase.
+836.0,63.40605444348808,1051.0,Customer requested refund for groceries worth $63.41.,Will buy again!
+837.0,80.56230250293223,1132.0,Customer returned electronics worth $80.56.,"Great service, fast delivery!"
+838.0,49.18725137575288,1651.0,Customer exchanged clothing worth $49.19.,Highly recommend!
+839.0,36.485674691227736,1744.0,Customer requested refund for cosmetics worth $36.49.,Highly recommend!
+840.0,42.72787792971032,1579.0,Customer purchased furniture worth $42.73.,"Great service, fast delivery!"
+841.0,99.57766068025052,1386.0,Customer returned cosmetics worth $99.58.,Highly recommend!
+842.0,41.8227353715044,1296.0,Customer exchanged furniture worth $41.82.,The product does not match the description.
+843.0,24.13577782207831,1492.0,Customer purchased clothing worth $24.14.,Will buy again!
+844.0,75.26952467331752,1490.0,Customer requested refund for clothing worth $75.27.,Will buy again!
+845.0,30.65716065461832,1921.0,Customer returned cosmetics worth $30.66.,Highly recommend!
+846.0,72.44945048279237,1647.0,Customer returned furniture worth $72.45.,Satisfied with the purchase.
+847.0,80.23266191446132,1188.0,Customer purchased clothing worth $80.23.,Product arrived broken.
+848.0,91.47555974162536,1053.0,Customer exchanged groceries worth $91.48.,"Great service, fast delivery!"
+849.0,81.16725920824848,1454.0,Customer requested refund for furniture worth $81.17.,Very disappointed with the product quality.
+850.0,63.46015786810301,1597.0,Customer requested refund for groceries worth $63.46.,Customer support was unhelpful.
+851.0,29.905949214574097,1759.0,Customer returned clothing worth $29.91.,"Great service, fast delivery!"
+852.0,64.40294608397701,1356.0,Customer returned furniture worth $64.40.,Refund took too long.
+853.0,59.66022515081108,1924.0,Customer returned electronics worth $59.66.,Excellent experience.
+854.0,66.52474028496395,1834.0,Customer purchased clothing worth $66.52.,Satisfied with the purchase.
+855.0,59.56766600854584,1176.0,Customer exchanged cosmetics worth $59.57.,Refund took too long.
+856.0,77.92991329715457,1551.0,Customer returned groceries worth $77.93.,Excellent experience.
+857.0,61.688816522872656,1934.0,Customer purchased groceries worth $61.69.,"Great service, fast delivery!"
+858.0,64.08704501443339,1190.0,Customer exchanged groceries worth $64.09.,"Great service, fast delivery!"
+859.0,42.16185142416847,1980.0,Customer purchased clothing worth $42.16.,Customer support was unhelpful.
+860.0,14.377501183070512,1322.0,Customer requested refund for groceries worth $14.38.,Customer support was unhelpful.
+861.0,80.206153862561,1765.0,Customer purchased furniture worth $80.21.,Satisfied with the purchase.
+862.0,80.41574164113865,1553.0,Customer returned groceries worth $80.42.,The product does not match the description.
+863.0,36.9087392976182,1143.0,Customer returned groceries worth $36.91.,Customer support was unhelpful.
+864.0,29.080894938055295,1709.0,Customer returned electronics worth $29.08.,Very disappointed with the product quality.
+865.0,19.35157808170657,1839.0,Customer returned electronics worth $19.35.,Customer support was unhelpful.
+866.0,34.44668007158171,1249.0,Customer requested refund for clothing worth $34.45.,"Great service, fast delivery!"
+867.0,81.41515284943999,1128.0,Customer requested refund for furniture worth $81.42.,Highly recommend!
+868.0,27.450619758180107,1111.0,Customer requested refund for groceries worth $27.45.,Satisfied with the purchase.
+869.0,65.70225812625743,1656.0,Customer returned cosmetics worth $65.70.,Satisfied with the purchase.
+870.0,50.70097741774521,1814.0,Customer exchanged groceries worth $50.70.,Customer support was unhelpful.
+871.0,50.243254577059886,1393.0,Customer purchased furniture worth $50.24.,Refund took too long.
+872.0,21.1458547206259,1920.0,Customer exchanged cosmetics worth $21.15.,The product does not match the description.
+873.0,16.43832083940835,1085.0,Customer requested refund for cosmetics worth $16.44.,The product does not match the description.
+874.0,70.30126731068788,1212.0,Customer exchanged electronics worth $70.30.,Will buy again!
+875.0,94.24651183536184,1708.0,Customer requested refund for cosmetics worth $94.25.,Product arrived broken.
+876.0,64.08879961517923,1917.0,Customer returned electronics worth $64.09.,Customer support was unhelpful.
+877.0,77.26384488888628,1376.0,Customer returned groceries worth $77.26.,Highly recommend!
+878.0,40.31214229035872,1495.0,Customer returned electronics worth $40.31.,Product arrived broken.
+879.0,84.55259193533934,1623.0,Customer exchanged cosmetics worth $84.55.,Highly recommend!
+880.0,95.2301527805285,1423.0,Customer requested refund for furniture worth $95.23.,Product arrived broken.
+881.0,50.83496652230644,1504.0,Customer purchased groceries worth $50.83.,Refund took too long.
+882.0,84.60060342839287,1571.0,Customer purchased electronics worth $84.60.,Highly recommend!
+883.0,63.53186105836484,1406.0,Customer returned clothing worth $63.53.,The product does not match the description.
+884.0,66.26626490693305,1704.0,Customer exchanged clothing worth $66.27.,Customer support was unhelpful.
+885.0,23.44981815960602,1210.0,Customer exchanged groceries worth $23.45.,"Great service, fast delivery!"
+886.0,90.06115336349863,1821.0,Customer returned cosmetics worth $90.06.,"Great service, fast delivery!"
+887.0,25.527990197551134,1180.0,Customer returned groceries worth $25.53.,Will buy again!
+888.0,74.06906245975239,1433.0,Customer requested refund for cosmetics worth $74.07.,The product does not match the description.
+889.0,26.68493172269836,1928.0,Customer requested refund for cosmetics worth $26.68.,Will buy again!
+890.0,87.17606804177909,1906.0,Customer exchanged groceries worth $87.18.,Refund took too long.
+891.0,88.07345453811928,1533.0,Customer returned cosmetics worth $88.07.,"Great service, fast delivery!"
+892.0,98.2927232923352,1691.0,Customer exchanged cosmetics worth $98.29.,Product arrived broken.
+893.0,31.218274539629405,1319.0,Customer purchased furniture worth $31.22.,Customer support was unhelpful.
+894.0,84.71865132912392,1544.0,Customer purchased clothing worth $84.72.,Customer support was unhelpful.
+895.0,53.68389808508408,1952.0,Customer exchanged groceries worth $53.68.,Excellent experience.
+896.0,23.030133714144085,1389.0,Customer requested refund for cosmetics worth $23.03.,The product does not match the description.
+897.0,63.498140700143466,1049.0,Customer requested refund for clothing worth $63.50.,Refund took too long.
+898.0,87.34495106429543,1755.0,Customer exchanged groceries worth $87.34.,Refund took too long.
+899.0,15.900151898696164,1538.0,Customer purchased electronics worth $15.90.,The product does not match the description.
+900.0,36.87927531010898,1424.0,Customer requested refund for furniture worth $36.88.,Customer support was unhelpful.
+901.0,13.846819533581574,1825.0,Customer requested refund for clothing worth $13.85.,Refund took too long.
+902.0,11.657828888394429,1996.0,Customer returned electronics worth $11.66.,Satisfied with the purchase.
+903.0,21.21036641616177,1991.0,Customer purchased clothing worth $21.21.,Highly recommend!
+904.0,45.76941000334883,1225.0,Customer returned clothing worth $45.77.,Product arrived broken.
+905.0,64.09589461181153,1322.0,Customer purchased electronics worth $64.10.,Satisfied with the purchase.
+906.0,90.38789073571203,1280.0,Customer requested refund for clothing worth $90.39.,Customer support was unhelpful.
+907.0,61.9468343699687,1932.0,Customer returned clothing worth $61.95.,Product arrived broken.
+908.0,21.0074016493607,1992.0,Customer exchanged clothing worth $21.01.,Will buy again!
+909.0,73.55606662201993,1595.0,Customer returned groceries worth $73.56.,Will buy again!
+910.0,32.2318769063642,1228.0,Customer purchased cosmetics worth $32.23.,Customer support was unhelpful.
+911.0,44.88713449114011,1304.0,Customer requested refund for cosmetics worth $44.89.,Highly recommend!
+912.0,38.39225462332512,1747.0,Customer returned clothing worth $38.39.,The product does not match the description.
+913.0,94.5872061148643,1199.0,Customer requested refund for groceries worth $94.59.,Excellent experience.
+914.0,96.52314248884213,1009.0,Customer requested refund for furniture worth $96.52.,The product does not match the description.
+915.0,81.69738902734242,1227.0,Customer purchased clothing worth $81.70.,Excellent experience.
+916.0,56.376547151977306,1334.0,Customer returned cosmetics worth $56.38.,The product does not match the description.
+917.0,80.90963279805126,1655.0,Customer requested refund for electronics worth $80.91.,Customer support was unhelpful.
+918.0,23.12363510526152,1242.0,Customer exchanged groceries worth $23.12.,Excellent experience.
+919.0,76.7037658134944,1136.0,Customer requested refund for electronics worth $76.70.,The product does not match the description.
+920.0,67.97359142174959,1142.0,Customer exchanged cosmetics worth $67.97.,Excellent experience.
+921.0,45.84978420861537,1004.0,Customer purchased clothing worth $45.85.,Refund took too long.
+922.0,53.520423375763215,1606.0,Customer exchanged cosmetics worth $53.52.,Highly recommend!
+923.0,52.160534543489405,1024.0,Customer purchased cosmetics worth $52.16.,Highly recommend!
+924.0,12.957371513455186,1800.0,Customer requested refund for electronics worth $12.96.,Product arrived broken.
+925.0,77.5892520491586,1060.0,Customer requested refund for cosmetics worth $77.59.,Will buy again!
+926.0,97.5841046288916,1666.0,Customer exchanged electronics worth $97.58.,Very disappointed with the product quality.
+927.0,93.186765046662,1165.0,Customer returned cosmetics worth $93.19.,Very disappointed with the product quality.
+928.0,75.05441065286574,1132.0,Customer exchanged groceries worth $75.05.,Will buy again!
+929.0,26.606352840247457,1751.0,Customer requested refund for clothing worth $26.61.,Will buy again!
+930.0,19.534609879795333,1514.0,Customer requested refund for clothing worth $19.53.,"Great service, fast delivery!"
+931.0,63.74348565655637,1785.0,Customer returned furniture worth $63.74.,Customer support was unhelpful.
+932.0,84.99494585391481,1801.0,Customer exchanged electronics worth $84.99.,Customer support was unhelpful.
+933.0,43.31408994984277,1330.0,Customer exchanged furniture worth $43.31.,Will buy again!
+934.0,59.64679754482704,1088.0,Customer requested refund for clothing worth $59.65.,Very disappointed with the product quality.
+935.0,67.6345414499013,1705.0,Customer exchanged furniture worth $67.63.,"Great service, fast delivery!"
+936.0,43.18297705942081,1658.0,Customer purchased electronics worth $43.18.,Very disappointed with the product quality.
+937.0,88.20869587689056,1518.0,Customer requested refund for furniture worth $88.21.,Product arrived broken.
+938.0,50.36171009890702,1131.0,Customer exchanged cosmetics worth $50.36.,Satisfied with the purchase.
+939.0,88.99270050806099,1482.0,Customer returned furniture worth $88.99.,Refund took too long.
+940.0,74.0970689078747,1516.0,Customer requested refund for furniture worth $74.10.,Customer support was unhelpful.
+941.0,13.844857117841546,1058.0,Customer purchased groceries worth $13.84.,Refund took too long.
+942.0,12.611478926976906,1350.0,Customer requested refund for cosmetics worth $12.61.,Product arrived broken.
+943.0,34.06316109206354,1232.0,Customer purchased furniture worth $34.06.,Satisfied with the purchase.
+944.0,35.85949743054377,1154.0,Customer requested refund for cosmetics worth $35.86.,"Great service, fast delivery!"
+945.0,42.60535294784076,1014.0,Customer returned cosmetics worth $42.61.,Product arrived broken.
+946.0,48.2268648362713,1473.0,Customer purchased cosmetics worth $48.23.,Product arrived broken.
+947.0,15.061303969882118,1085.0,Customer requested refund for clothing worth $15.06.,Customer support was unhelpful.
+948.0,60.222509912044046,1779.0,Customer purchased cosmetics worth $60.22.,Refund took too long.
+949.0,71.16993370893385,1971.0,Customer returned furniture worth $71.17.,Will buy again!
+950.0,79.37427413633232,1124.0,Customer returned groceries worth $79.37.,Will buy again!
+951.0,68.36620472188787,1568.0,Customer exchanged cosmetics worth $68.37.,Refund took too long.
+952.0,73.97469114745326,1083.0,Customer exchanged clothing worth $73.97.,Very disappointed with the product quality.
+953.0,61.19374615765196,1138.0,Customer requested refund for cosmetics worth $61.19.,Refund took too long.
+954.0,98.30041035340705,1942.0,Customer purchased clothing worth $98.30.,Product arrived broken.
+955.0,57.99495371278119,1814.0,Customer requested refund for groceries worth $57.99.,"Great service, fast delivery!"
+956.0,22.090776401179784,1592.0,Customer purchased groceries worth $22.09.,Refund took too long.
+957.0,13.131711320985104,1345.0,Customer returned furniture worth $13.13.,Customer support was unhelpful.
+958.0,82.00241852701163,1108.0,Customer returned groceries worth $82.00.,Will buy again!
+959.0,31.808666818145923,1037.0,Customer requested refund for furniture worth $31.81.,Refund took too long.
+960.0,18.212010934779613,1748.0,Customer returned cosmetics worth $18.21.,Highly recommend!
+961.0,79.19729957287116,1902.0,Customer requested refund for electronics worth $79.20.,Highly recommend!
+962.0,10.661651267084997,1925.0,Customer returned electronics worth $10.66.,Excellent experience.
+963.0,39.41846624095393,1631.0,Customer requested refund for cosmetics worth $39.42.,Very disappointed with the product quality.
+964.0,14.572576131898854,1367.0,Customer returned groceries worth $14.57.,"Great service, fast delivery!"
+965.0,66.38073201509731,1578.0,Customer returned clothing worth $66.38.,Product arrived broken.
+966.0,59.029280852582886,1701.0,Customer exchanged furniture worth $59.03.,Highly recommend!
+967.0,29.363762180061297,1628.0,Customer requested refund for groceries worth $29.36.,Product arrived broken.
+968.0,38.67638285599344,1376.0,Customer returned clothing worth $38.68.,Very disappointed with the product quality.
+969.0,70.84179380147489,1990.0,Customer requested refund for clothing worth $70.84.,The product does not match the description.
+970.0,96.10935116192007,1951.0,Customer requested refund for groceries worth $96.11.,Product arrived broken.
+971.0,80.55756596081288,1511.0,Customer requested refund for electronics worth $80.56.,Very disappointed with the product quality.
+972.0,60.98276949454476,1044.0,Customer requested refund for groceries worth $60.98.,The product does not match the description.
+973.0,40.39032929213584,1661.0,Customer purchased clothing worth $40.39.,Excellent experience.
+974.0,85.88659811810663,1289.0,Customer exchanged cosmetics worth $85.89.,Refund took too long.
+975.0,24.179380831671477,1787.0,Customer exchanged clothing worth $24.18.,Satisfied with the purchase.
+976.0,22.628164738064527,1666.0,Customer returned electronics worth $22.63.,Will buy again!
+977.0,68.46708138536229,1153.0,Customer purchased electronics worth $68.47.,The product does not match the description.
+978.0,41.61384354634974,1055.0,Customer requested refund for cosmetics worth $41.61.,Satisfied with the purchase.
+979.0,52.33810790461614,1020.0,Customer returned furniture worth $52.34.,Highly recommend!
+980.0,59.3088667897494,1421.0,Customer returned furniture worth $59.31.,Customer support was unhelpful.
+981.0,50.18606437061031,1030.0,Customer purchased electronics worth $50.19.,Product arrived broken.
+982.0,15.880654301311733,1777.0,Customer returned electronics worth $15.88.,Customer support was unhelpful.
+983.0,93.2069229574343,1501.0,Customer requested refund for groceries worth $93.21.,Satisfied with the purchase.
+984.0,49.45007181617836,1884.0,Customer returned furniture worth $49.45.,The product does not match the description.
+985.0,87.01161858917399,1796.0,Customer purchased clothing worth $87.01.,Excellent experience.
+986.0,29.32881528535313,1706.0,Customer returned electronics worth $29.33.,Satisfied with the purchase.
+987.0,90.00558943683018,1238.0,Customer requested refund for electronics worth $90.01.,Satisfied with the purchase.
+988.0,86.31758256679817,1937.0,Customer returned groceries worth $86.32.,Product arrived broken.
+989.0,20.443810594610373,1312.0,Customer exchanged groceries worth $20.44.,Will buy again!
+990.0,64.6020311134568,1595.0,Customer returned electronics worth $64.60.,Satisfied with the purchase.
+991.0,37.54797796124622,1060.0,Customer requested refund for furniture worth $37.55.,Product arrived broken.
+992.0,41.35252404135755,1666.0,Customer returned clothing worth $41.35.,Satisfied with the purchase.
+993.0,31.145356675220096,1695.0,Customer requested refund for cosmetics worth $31.15.,"Great service, fast delivery!"
+994.0,95.9649600417467,1123.0,Customer exchanged groceries worth $95.96.,"Great service, fast delivery!"
+995.0,69.01355852338624,1825.0,Customer exchanged electronics worth $69.01.,Satisfied with the purchase.
+996.0,19.87674987658153,1411.0,Customer returned furniture worth $19.88.,Refund took too long.
+997.0,96.29979162337555,1566.0,Customer requested refund for electronics worth $96.30.,Product arrived broken.
+998.0,75.16445866811671,1654.0,Customer requested refund for clothing worth $75.16.,Very disappointed with the product quality.
+999.0,93.63304034468202,1928.0,Customer requested refund for groceries worth $93.63.,The product does not match the description.
+1000.0,89.91562519415352,1503.0,Customer returned clothing worth $89.92.,Satisfied with the purchase.
